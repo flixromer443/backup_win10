@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="estilos/estilo.css">
+    <link rel="stylesheet" type="text/css" href="estilos/formulariop.css">
+    <link rel="stylesheet" type="text/css" href="estilos/loader.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: grey;">
+    
+    
+    
+    <!--Loader-->
+    <div class="cont-load">
+        <div class="loader"></div> 
+        </div>     
+    <script>
+        $(window).on("load",function(){
+            $(".cont-load").fadeOut(1000)
+         
+        });
+    </script>
+
+    <!--Barra de navegacion-->
+    <div>
+    <div id="headerr" >
+		<ul class="navi">
+			<li><h2 id="letras">Concursos docentes</h1></li>
+			<li>
+				<a href="index.html">inicio</a>
+				
+			</li>
+			<li>
+				<a>Men&uacute;</a>
+				<ul>
+					<li><a>Actos publicos</a>
+						<ul>
+                            <li><a href="actospup.html">Educaci&oacute;n primaria</a></li>
+                            <li><a href="actosput.html">Educaci&oacute;n tecnica</a></li>
+                            <li><a href="actospue.html" >Educaci&oacute;n especial</a></li>
+						
+                            
+						</ul>
+					</li>
+				
+				</ul>
+			</li>
+
+		</ul>
+		
+    </div>
+    </div>
+    <br>
+
+    <!--Formulario-->
+    <div>
+        <div class="cajapiola">
+            <form>
+                <h1>Informaci&oacute;n academica</h1>
+                <br>
+                <p style="color: white; text-align: center;">Titulo obtenido</p>
+                <select>
+                    <option>Licenciatura</option>
+                    <option>Tecnicatura</option>
+                    <option>Magister</option>
+                </select>
+                <br>
+                <br>
+                <p style="color: white; text-align: center;">Puntaje de titulo</p>
+                <input type="number" name="" id="puntaje">
+                <br>
+            
+    
+    
+                <p style="color: white; text-align: center;">Vacantes</p>
+            
+                <select>
+                  
+                    <option>Literatura</option>
+                    <option>Fisica</option>
+            
+    
+                </select>
+                <br>
+                <p style="color: white; text-align: center;">Instituci&oacute;n</p>
+            
+                <select>
+                  
+                    <option>Esc secundaria n°35</option>
+                    <option>Esc Secundaria n°101</option>
+                    <option>Esc Secundaria n°45</option>
+            
+    
+                </select>
+                <br>
+             
+                <p style="color: white; text-align: center;">Puntaje anual docente</p>
+                <input type="number" name="" id="puntaje">
+                <p style="color: white; text-align: center; font-size: 12px;">Si no conocesu puntaje<br>ingrese <a href="http://servicios.abc.gov.ar/servaddo/puntaje.ingreso.docencia/">Aqui</a></p>
+                <br>
+                
+        
+                <a href="index.html" id="aceptar" onclick="alert('Su formulario ha sido enviado con exito');">Enviar</a>
+        
+            </form>
+        </div>
+    
+
+
+
+
+    </div>
+    <br>
+    <br>
+
+    <!--Footer-->
+    <div class="pie">
+		<table style="margin-left: 10%;">
+			<tr>
+				<td  id="tdcont"><h3>Concursos docentes</h3><br><p>Direcci&oacute;n : Zapiola 1420 (Libertad/Merlo)<br>Para mas informacion <br>Contactenos <br><img src="imagenes/whatsapp.png" id="whatsapp"> 11-5930-5824</p></td>
+
+				<td><a href="https://www.facebook.com" ><img src="imagenes/botones/face.png" id="facebook"class="tdt" ></a></td>
+				<td><a href="https://twitter.com/login?lang=es" ><img src="imagenes/botones/twitter.png" id="twitter"></a></td>
+			</tr>
+		</table>
+		<br><br>
+		<div class="foot">
+			<footer>
+                    <h2>Designed By Felix</h2>
+            </footer>			
+        </div>
+    </div>
+   
+</body>
+</html>

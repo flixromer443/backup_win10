@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="estilos/bgcolorp.css">
+	<link rel="stylesheet" type="text/css" href="estilos/estilo.css">
+	<link rel="stylesheet" type="text/css" href="estilos/formulariop.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+	<div style="padding-top: 70%">
+		<form class="caja">
+			<div class="step">
+				<h1>Datos personales</h1>
+				<br>
+				<input type="text" name="" placeholder="Nombre y apellido">
+				<br>
+				<input type="date" name="" placeholder="Fecha de nacimiento">
+				<br>
+				<input type="number" name="dni" placeholder="Dni">
+				<br>
+				<input type="email" name="correo" placeholder="***@gmail.com">
+				<br>
+				<input type="phone" name="telefono" placeholder="Tel&eacute;fono">
+				<br>
+				<button id="boton" data-to_step="2" data-step="1">Siguiente</button>
+			</div>
+			<div class="step active">
+				<h1>Informaci&oacute;n academica</h1>
+			<br>
+			<p style="color: white; text-align: center;">Titulo obtenido</p>
+			<select>
+				<option>Licenciatura</option>
+				<option>Tecnicatura</option>
+				<option>Magister</option>
+			</select>
+			<br>
+			<p style="color: white; text-align: center;">Area</p>
+		
+			<select>
+				<option>Informatica</option>
+				<option>Literatura</option>
+				<option>Cs.sociales</option>
+				<option>Cs.naturales</option>
+				<option>Educaci&oacute;n fisica</option>
+				<option>Matematica</option>
+
+			</select>
+			<br>
+			<p style="color: white; text-align: center;">Puntaje anual docente</p>
+			<input type="number" name="" id="puntaje">
+			<p style="color: white; text-align: center; font-size: 12px;">Si no conocesu puntaje<br>ingrese <a href="http://servicios.abc.gov.ar/servaddo/puntaje.ingreso.docencia/">Aqui</a></p>
+			<br>
+		<button id="boton" data-to_step="1" data-step="2">anterior</button><input type="submit" id="boton" name="enviar">
+			</div>
+			
+		</form>
+	</div>
+	
+
+    
+</body>
+</html>

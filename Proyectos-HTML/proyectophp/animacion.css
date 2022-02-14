@@ -1,0 +1,54 @@
+.parrafo{
+    margin-left: 30%;
+    margin-top: 5%;
+
+     color: honeydew;
+     text-align: left;
+     width: 500px;
+     animation: cartel normal 1s;
+     padding: 10px 10px 10px 10px;
+     opacity: 0.7;
+     border:solid;
+      border-color: rgb(106, 126, 126);
+  
+    
+ }
+ .parrafo p{
+     font-size: 30px;
+ }
+
+ @media screen and (max-width: 800px) {
+    .parrafo p{
+        font-size: 20px;
+    }
+    .parrafo{
+      
+       margin-left:15%;
+       margin-top: 20%;
+         width: 320px;
+         text-align: left;
+         border:solid;
+         border-color: rgb(106, 126, 126);
+     
+    }
+    @keyframes cartel  {
+
+        0%{
+            opacity: 0;
+            margin-left:0% ;
+          
+        }
+
+        
+        
+        
+        to{
+          
+        
+            margin-left: 15%;
+            margin-top: 20%;
+        }
+        
+    }
+
+}

@@ -1,0 +1,75 @@
+.navegacion{
+    position: fixed;
+    height: 30px;
+    background-color: rgb(27, 27, 83);
+    width: 100%;
+    padding: 20px 20px 20px 20px;
+    animation: aparecer linear 0.7s;
+}
+
+.navegacion h1{
+    color: aliceblue;
+    margin: 5px 5px 5px 5px;
+    padding-right: 40px;
+    animation: moverse linear infinite 10s;
+}
+.botonera {
+    padding: 10% 10% 10% 10%;
+    margin: 10% 10% 10% 10%;
+    text-align: center;
+}
+
+.botonera button{
+    padding: 5px 5px 5px 5px;
+
+    width: 200px;
+    font-size: 30px;
+    border-radius: 20px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(78, 75, 60);
+    border-style: solid;
+    border-color: rgb(111, 226, 255);
+    border-width: 3px;
+   
+    transition: 0.5s;
+}
+.botonera a{
+    
+    color: rgb(187, 202, 216);
+    text-decoration: none;
+}
+.botonera button:hover{
+    border-color: rgb(86, 171, 192);
+    padding: 10px 10px 10px 10px;
+    width: 250px;
+}
+@keyframes moverse{
+    0%{
+        transform: translateX(-35%);
+    }
+    
+    
+    50%{
+        transform: translateX(500%);
+    }
+    to{
+        transform: translateX(-35%);
+
+    }
+
+}@keyframes aparecer{
+    0%{
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0%);
+    }
+}
+body{
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}

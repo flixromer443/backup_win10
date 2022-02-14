@@ -1,0 +1,12 @@
+Diseño Archivos
+
+Escuelas.Dat
+
+id_Colegio|Nombre_Colegio|Direccion_Colegio|Localidad
+1|ESCUELA ES N°1|17 N°138|PILA
+2|ESCUELA EP N°2|11 ESQ 4 N°87|PILA
+
+Mesas.Dat
+
+id_Mesa|id_Colegio
+1|1

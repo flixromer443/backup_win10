@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="estilo.css">
+    <script src="script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="navegacion">
+        <nav>
+            <table>
+                <tr><td> <h1>GNSC Juegos</h1>  </td>
+                    <td> <a href="Index.Html">Inicio</a>  </td>
+                    <td> <a href="">Deportes</a>  </td>
+                    <td> <a href="matematicas.html">Matematicas</a>  </td>
+                    <td> <a href="">Geografia</a>  </td>
+                </tr>
+                
+            </table>
+    </nav>
+    </div>
+    <div class="caja">
+        <h1>Historia Argentina</h1>
+        <div class="encuesta">
+            <img src="fotoshistoria/foto1historia.jpg">
+            <br>
+            <label id="lbl">Quien es este procer??</label>
+            <br><br>
+            <input type="checkbox"onchange="falso()"><label>Manuel Belgrano.</label>
+            <br>
+            <input type="checkbox"onchange="falso()"><label>Jose de San Martin.</label>
+            <br>
+            <input type="checkbox" onchange="falso()"><label>Domingo Faustino Sarmiento.</label>
+            <br>
+            <input type="checkbox" onchange="verdadero()"><label>Juan Manuel de Rosas.</label>
+            <p id="p1"></p>
+        </div>
+        <div class="encuesta">
+            <img src="fotoshistoria/foto2historia.jpeg">
+            <br>
+            <label id="lbl">Quien es Jorge Luis Borges??</label>
+            <br><br>
+            <input type="checkbox"onchange="verdadero2()"><label>Un escrit&oacute;r.</label>
+            <br>
+            <input type="checkbox"onchange="falso2()"><label>Un cientifico.</label>
+            <br>
+            <input type="checkbox" onchange="falso2()"><label>Un historiad&oacute;r.</label>
+            <br>
+            <input type="checkbox" onchange="falso2()"><label>Un politico.</label>
+            <p id="p2"></p>
+        </div>
+        <div>
+            <div class="encuesta">
+                <img src="fotoshistoria/foto3historia.jpg">
+                <br>
+                <label id="lbl">En que año fue presidente Raul Alfonsin??</label>
+                <br><br>
+                <input type="checkbox"onchange="falso3()"><label>1993</label>
+                <br>
+                <input type="checkbox"onchange="falso3()"><label>2006</label>
+                <br>
+                <input type="checkbox" onchange="verdadero3()"><label>1983</label>
+                <br>
+                <input type="checkbox" onchange="falso3()"><label>1976</label>
+                <p id="p3"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <img src="fotoshistoria/foto4historia.jpg">
+                <br>
+                <label id="lbl">En que fecha se produjo la revoluci&oacute;n de mayo??</label>
+                <br><br>
+                <input type="checkbox"onchange="verdadero4()"><label>25 de mayo de 1810.</label>
+                <br>
+                <input type="checkbox"onchange="falso4()"><label>25 de mayo de 1816.</label>
+                <br>
+                <input type="checkbox" onchange="falso4()"><label>25 de mayo de 1811.</label>
+                <br>
+                <input type="checkbox" onchange="falso4()"><label>25 de mayo de 1812.</label>
+                <p id="p4"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <img src="fotoshistoria/foto5historia.jpg">
+                <br>
+                <label id="lbl">En que fecha se produjo la Batalla de Caseros??</label>
+                <br><br>
+                <input type="checkbox"onchange="falso5()"><label>3 de febrero de 1846.</label>
+                <br>
+                <input type="checkbox"onchange="falso5()"><label>3 de febrero de 1848.</label>
+                <br>
+                <input type="checkbox" onchange="falso5()"><label>3 de febrero de 1850.</label>
+                <br>
+                <input type="checkbox" onchange="verdadero5()"><label>3 de febrero de 1852.</label>
+                <p id="p5"></p>
+            </div>
+        </div>
+            
+        <div>
+            <div class="encuesta">
+                <img src="fotoshistoria/foto6historia.jpg">
+                <br>
+                <label id="lbl">Quien es este procer??</label>
+                <br><br>
+                <input type="checkbox"onchange="falso6()"><label>Manuel Belgrano.</label>
+                <br>
+                <input type="checkbox"onchange="falso6()"><label>Bernardino Rivadavia.</label>
+                <br>
+                <input type="checkbox" onchange="verdadero6()"><label>Cornelio Saavedra.</label>
+                <br>
+                <input type="checkbox" onchange="falso6()"><label>Jose de San Martin.</label>
+                <p id="p6"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <img src="fotoshistoria/foto7historia.jpg">
+                <br>
+                <label id="lbl">Quien luch&oacute; en la Batalla de San lorenzo??.</label>
+                <br><br>
+                <input type="checkbox"onchange="falso7()"><label>Manuel Belgrano.</label>
+                <br>
+                <input type="checkbox"onchange="falso7()"><label>Juan Larrea.</label>
+                <br>
+                <input type="checkbox" onchange="verdadero7()"><label>Jose de San Matin.</label>
+                <br>
+                <input type="checkbox" onchange="falso7()"><label>Miguel de Azcuenaga.</label>
+                <p id="p7"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <img src="fotoshistoria/foto8historia.jpg">
+                <br>
+                <label id="lbl">En que fecha se celebra el dia de la bandera ??</label>
+                <br><br>
+                <input type="checkbox"onchange="verdadero8()"><label>20 de Junio.</label>
+                <br>
+                <input type="checkbox"onchange="falso8()"><label>9 de Julio.</label>
+                <br>
+                <input type="checkbox" onchange="falso8()"><label>17 de Agosto.</label>
+                <br>
+                <input type="checkbox" onchange="falso8()"><label>12 de Octubre.</label>
+                <p id="p8"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <img src="fotoshistoria/foto9historia.jpg">
+                <br>
+                <label id="lbl">Quien es este procer ??</label>
+                <br><br>
+                <input type="checkbox"onchange="falsoo9()"><label>Jose de San Martin.</label>
+                <br>
+                <input type="checkbox"onchange="falso9()"><label>Justo Jose de Urquiza.</label>
+                <br>
+                <input type="checkbox" onchange="verdadero9()"><label>Manuel Belgrano.</label>
+                <br>
+                <input type="checkbox" onchange="falso9()"><label>Miguel de Azcuenaga.</label>
+                <p id="p9"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <img src="fotoshistoria/foto10historia.jpg">
+                <br>
+                <label id="lbl">Quien es este procer ??</label>
+                <br><br>
+                <input type="checkbox"onchange="falsoofinal()"><label>Justo Jose de Urquiza.</label>
+                <br>
+                <input type="checkbox"onchange="falsofinal()"><label>Manuel Belgrano.</label>
+                <br>
+                <input type="checkbox" onchange="verdaderofinal()"><label>Jose de Sam Martin.</label>
+                <br>
+                <input type="checkbox" onchange="falsofinal()"><label>Miguel de Azcuenaga.</label>
+                <p id="p10"></p>
+            </div>
+        </div>
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        <div>
+            <h1>Resultado :<label id="res"></label><label>/10</label> </h1>
+            <br>
+            <h1 id="resfinal"></h1>
+            
+        </div>
+     <div class="boton"> 
+            <button><a href="" >Volver a jugar</a> </button>
+     </div>
+    </div>
+    
+</body>
+</html>

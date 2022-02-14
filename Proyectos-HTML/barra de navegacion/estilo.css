@@ -1,0 +1,31 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#headerr{
+	margin: auto;
+}
+ul, ol{
+	list-style: none;
+}
+.navi li a{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 10px 15px;
+	display: block;
+}
+.navi > li{
+	float: left;
+}
+.navi li a:hover{
+	background-color: grey;
+}
+.navi li ul{
+	position: absolute;
+	display: none;
+	min-width: 130px;
+}
+.navi li:hover > ul{
+	display: block;
+} 

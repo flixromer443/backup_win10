@@ -1,0 +1,4 @@
+function probar()
+{
+ alert("funciona");
+}

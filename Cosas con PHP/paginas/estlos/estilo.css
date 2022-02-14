@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.btn{
+	padding: 10px 10px;
+	border: 1px solid #3499db;
+	background: none;
+	transition: 0.2s;
+	margin: 10px;
+	cursor: pointer;
+	border-radius: 80px;
+}
+.bt1,.bt2{
+	color: #3499db;
+}
+.bt1:hover,.bt2:hover{
+	color: #fff;
+	background-image:none;
+}
+#im{
+	width: 30px;
+}

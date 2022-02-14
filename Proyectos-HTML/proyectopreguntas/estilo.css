@@ -1,0 +1,111 @@
+.caja{
+    
+    text-align: left;
+    padding: 5% 20% 5% 20%;
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    border-style: solid;
+    border-color: rgb(176, 185, 194);
+    
+}
+.navegacion{
+    position: fixed;
+    height: 30px;
+    background-color: rgb(27, 27, 83);
+    width: 100%;
+    padding: 20px 20px 20px 20px;
+}
+
+.navegacion h1{
+    color: aliceblue;
+    margin: 5px 5px 5px 5px;
+    padding-right: 40px;
+    animation: moverse linear infinite 2s;
+}
+@keyframes moverse{
+    0%{
+        transform: translateX(-35);
+    }
+    
+    
+    50%{
+        transform: translateX(40px);
+    }
+    to{
+        transform: translateX(-35);
+
+    }
+
+}
+
+
+.navegacion a{
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
+    color: aliceblue;
+}
+.navegacion a:hover{
+    color: gray;
+}
+
+.caja h1{
+    color: aliceblue;
+    text-align: center;
+    
+}
+img{
+    padding-left: 0px;
+    width: 260px;
+    align-items: center;
+}
+.encuesta{
+    background-color: rgb(182, 182, 164);
+    border-radius: 20px;
+    margin-top: 20px;
+    border-style: solid;
+    padding: 10% 10% 10% 10%;
+    transition: 0.5s;
+    animation: presentar linear 0.7s;
+}
+@keyframes presentar{
+    0%{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+.encuesta:hover{
+    padding: 15% 15% 15% 15%;
+}
+
+#lbl{
+    font-size: 25px;
+}
+body{
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+
+
+
+}
+.boton {
+    
+    padding: 10% 10% 10% 10%;
+    text-align: center;
+    margin: auto;
+}   
+.boton a{
+    
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.boton button{
+    border-radius: 20px;
+}

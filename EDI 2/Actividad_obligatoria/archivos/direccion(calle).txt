@@ -1,0 +1,3951 @@
+1| MAGALLANES         
+2|33                  
+3|9 DE JULIO          
+4|9 DE JULIO          
+5|9 DE JULIO          
+6|A. ECHAGUE          
+7|A.VESPUCIO          
+8|ABRAMO              
+9|ABRAMO              
+10|ABRAMO              
+11|ABRAMO              
+12|ABRAMO              
+13|ALBERTO ECHAGUE     
+14|ALBERTO ECHAGUE     
+15|ALMAGRO             
+16|ALMAGRO             
+17|ALPATACAL           
+18|ANDONAEGUI          
+19|ARENAS              
+20|ARENAS              
+21|ARENAS              
+22|ARENAS              
+23|ARENAS              
+24|ARRIOLA             
+25|ARRIOLA             
+26|ARRIOLA             
+27|ARRIOLA             
+28|ARRIOLA             
+29|ARRIOLA             
+30|ARRIOLA             
+31|ARROYO              
+32|ARROYO              
+33|ATAHUALPA           
+34|ATAHUALPA           
+35|AV. BELLA VISTA     
+36|AV. DEL CORTIJO     
+37|AV. JULIAN CASTRO   
+38|AV. PATRICIOS Y LINI
+39|AV.REAL             
+40|AVDA. CALLE REAL    
+41|AVDA. CALLE REAL    
+42|AVDA. EL CORTIJO    
+43|AVDA. MERLO GOMEZ   
+44|AVDA. MERLO GOMEZ   
+45|AYOHUMA             
+46|AYOHUMA             
+47|B.SUR MER           
+48|BALCARCE            
+49|BALCARCE            
+50|BALCARCE            
+51|BALCARCE            
+52|BARILOCHE           
+53|BARRAGAN            
+54|BARTOLOME  MITRE    
+55|BARTOLOME MITRE     
+56|BELEN               
+57|BELLA VISTA         
+58|BELLA VISTA         
+59|BELLINI             
+60|BELLINI             
+61|BERMEJO             
+62|BERNAL              
+63|BERNAL              
+64|BERNAL              
+65|BERNAL              
+66|BERNAL Y SINCLAIR   
+67|BLAS PARERA         
+68|BLAS PARERA         
+69|BLAS PARERA         
+70|BLAS PARERA         
+71|BLAS PARERA         
+72|BLAS PARERA         
+73|  BLASCO IBA#EZ     
+74|BLASCO IBA#EZ       
+75|BOLIVIA             
+76|BOLIVIA             
+77|BOLIVIA             
+78|BOUCHARD            
+79|BOULOGNE SUR MER    
+80|BOULOGNE SUR MER    
+81|BOULOGNE SUR MER    
+82|BOULOGNE SUR MER    
+83|BOULOGNE SUR MER    
+84|BOULOGNE SUR MER    
+85|BOULOGNE SUR MER    
+86|BOULOGNE SUR MER    
+87|BOULOGNE SUR MER    
+88|BURGOS              
+89|BUSTOS              
+90|BUSTOS MANUEL       
+91|CADELAGO            
+92|CADELAGO            
+93|CANCANO             
+94|CANTON              
+95|CANTON              
+96|CANTON              
+97|CARBAJAL            
+98|CARBAJAL            
+99|CARBAJAL            
+100|CARDOSO             
+101|CARHUE              
+102|CARLE               
+103|CARLES              
+104|CARLOS PELLEGRINI   
+105|CARLOS PELLEGRINI   
+106|CARLOS TEJEDOR      
+107|CARLOS TEJEDOR      
+108|CARLOS TEJEDOR      
+109|CARRIEGO Y 1RA. JUNT
+110|CARRIZO             
+111|CARRIZO             
+112|CARRIZO             
+113|CARRIZO             
+114|CARRIZO             
+115|CARRIZO             
+116|CARRIZO             
+117|CARRIZO             
+118|CARRIZO             
+119|CARRIZO             
+120|CARRIZO             
+121|CARUHE              
+122|CASTA#ARES          
+123|CASTA#ARES          
+124|CASTA#ARES          
+125|CASTA#ARES          
+126|CASTA#ARES          
+127|CAVIA               
+128|CHARLONE            
+129|CHARLONE            
+130|CHARLONE            
+131|CHARLONE            
+132|CHASCOMUS           
+133|CHASCOMUS           
+134|CHASCOMUS           
+135|CHILE               
+136|CHILE               
+137|CHILE               
+138|CHILE               
+139|  CHILE             
+140|CHILE               
+141|CHILE               
+142|CHILE Y LA GACETA   
+143|CLEMENTE ONELLI     
+144|COLOMBIA            
+145|COLOMBIA            
+146|COLOMBIA            
+147|COLOMBIA            
+148|COLOMBIA            
+149|COLOMBIA            
+150|COLOMBIA            
+151|COLOMBIA            
+152|COLOMBIA            
+153|CORONDA             
+154|COSTA RICA          
+155|COSTA RICA          
+156|MISIONES            
+157|CRAIG               
+158|CRAIG               
+159|CRAMER              
+160|CUBA                
+161|CUBA                
+162|CUBA                
+163|CUBA                
+164|CUENCA              
+165|CUENCA              
+166|D'ONOFRIO           
+167|D'ONOFRIO           
+168|  D. VALDEZ         
+169|DE ROMA             
+170|DEHEZA              
+171|DEHEZA              
+172|DEHEZA              
+173|DEHEZA              
+174|DIESEL              
+175|DIESEL              
+176|DOBLAS              
+177|DOBLAS              
+178|DOBLAS              
+179|DOBLAS              
+180|DOBLAS              
+181|ECHAGUE ALBERTO     
+182|ECHAGUE ALBERTO     
+183|ECHAGUE PEDRO       
+184|ECHEVERRIA          
+185|ECUADOR             
+186|ECUADOR             
+187|ECUADOR             
+188|ECUADOR             
+189|ECUADOR             
+190|ECUADOR             
+191|ECUADOR             
+192|ECUADOR             
+193|EGIPTO              
+194|EGIPTO              
+195|EGIPTO              
+196|EGIPTO              
+197|EGIPTO              
+198|EL PICAFLOR         
+199|ELIZALDE            
+200|ENRIQUE ROSSI       
+201|EPECUEN             
+202|EPECUEN             
+203|  EPECUEN           
+204|EPECUEN             
+205|EPECUEN             
+206|ESCOBAR             
+207|ESCOBAR             
+208|ESCOBAR             
+209|ESCOBAR             
+210|ESCOBAR             
+211|ESCOBAR             
+212|ESCOBAR             
+213|ESPA#A              
+214|ESPA#A              
+215|ESQUIU              
+216|ESQUIU              
+217|ESQUIU              
+218|ESQUIU              
+219|ESQUIU              
+220|EUROPA              
+221|EUROPA              
+222|EUROPA              
+223|EUROPA              
+224|  EUROPA            
+225|EUROPA              
+226|EVA PERON           
+227|EVA PERON           
+228|EVA PERON           
+229|EVA PERON           
+230|EVA PERON           
+231|EVA PERON           
+232|EVA PERON           
+233|EVARISTO CARRIEGO   
+234|EVARISTO CARRIEGO   
+235|EVARISTO CARRIEGO   
+236|F. TORO             
+237|FARADAY             
+238|FELIX FRIAS         
+239|FERNANDO ABRAMO     
+240|FINOCHIETTO         
+241|FINOCHIETTO         
+242|FINOCHIETTO         
+243|FINOCHIETTO         
+244|FINOCHIETTO         
+245|FOREST              
+246|FOREST              
+247|FOREST              
+248|FOREST              
+249|FOREST              
+250|FOREST              
+251|FOREST              
+252|FOREST              
+253|FOREST              
+254|FRANCISCO TORO      
+255|FRAY LUIS BELTRAN   
+256|FRAY LUIS BELTRAN   
+257|FRAY LUIS BELTRAN   
+258|FRAY LUIS BELTRAN   
+259|FRAY LUIS BELTRAN   
+260|FRAY LUIS BELTRAN   
+261|FRENCH              
+262|FRENCH              
+263|FRENCH              
+264|FRENCH              
+265|FRENCH              
+266|FRENCH              
+267|FRENCH              
+268|GABRIELA MISTRAL    
+269|GABRIELA MISTRAL    
+270|GANDHI              
+271|GARAY               
+272|GIRADORT            
+273|GIRARDOT            
+274|GIRARDOT            
+275|GIRARDOT            
+276|GRAL MILLER         
+277|GRAL VENANCIO FLORES
+278|GRAY                
+279|GRIVEO              
+280|GRIVEO Y PADILLA    
+281|GUAYANAS            
+282|GURRUCHAGA          
+283|HABANA              
+284|HELGUERA            
+285|HELGUERA            
+286|HELGUERA            
+287|HELGUERA            
+288|HELGUERA            
+289|HELVECIA            
+290|HELVECIA            
+291|HELVECIA            
+292|HELVECIA            
+293|HELVECIA            
+294|HELVECIA            
+295|HELVECIA            
+296|HONDURAS            
+297|HONDURAS            
+298|HORACIO QUIROGA     
+299|HORACIO QUIROGA     
+300|HORACIO QUIROGA     
+301|HORNOS              
+302|HORTIGUERA          
+303|HORTIGUERA          
+304|HORTIGUERA          
+305|HORTIGUERA          
+306|HORTIGUERA          
+307|HORTIGUERA          
+308|HUDSON              
+309|HUDSON  BRIO. MERLO 
+310|IBA#EZ              
+311|INDIO               
+312|INDIO               
+313|INDIO               
+314|INDIO               
+315|ISLA SOLEDAD        
+316|ITURRI              
+317|ITURRI              
+318|ITURRI              
+319|IWANOSWKI           
+320|J.B JUSTO           
+321|J.V.GONZALEZ        
+322|JACQUES             
+323|JAPON               
+324|JEFFERSON           
+325|JEFFERSON           
+326|JEFFERSON           
+327|JEFFERSON           
+328|JOAQUIN V GONZALEZ  
+329|JOAQUIN V GONZALEZ  
+330|JOAQUIN V GONZALEZ  
+331|JOAQUIN V. GONZALEZ 
+332|JORGE LUIS BORGES   
+333|JOSE MARIA CANTILO  
+334|JOSE MARIA CANTILO  
+335|JOSE MELIAN         
+336|JOSE MIRANDA        
+337|JOSE ROMERO         
+338|JUAN B JUSTO        
+339|JUAN B JUSTO        
+340|JUAN B JUSTO        
+341|JUAN FRANCISCO OLMOS
+342|JUAN MANUEL DE ROSAS
+343|JUAN SORIA          
+344|JUAN SORIA          
+345|JUAN XXIII          
+346|JUFRE               
+347|JUFRE               
+348|JUFRE               
+349|JUFRE               
+350|JUFRE               
+351|JUFRE               
+352|JUFRE               
+353|JUFRE               
+354|JULIAN M CASTRO     
+355|JULIAN M CASTRO     
+356|JUSTICIA            
+357|JUSTICIA            
+358|LA FUENTE           
+359|LA FUENTE           
+360|LA FUENTE           
+361|LA GACETA           
+362|LA GACETA           
+363|LA MERCED           
+364|LAFAYATTE           
+365|LAFAYETTE           
+366|LAFUENTE            
+367|LAFUENTE            
+368|LAFUENTE            
+369|LINCOLN             
+370|LINCOLN             
+371|LINIERS             
+372|LINIERS             
+373|LINIERS             
+374|LINIERS             
+375|LISANDRO DE LA TORRE
+376|LISANDRO DE LA TORRE
+377|LISANDRO DE LA TORRE
+378|LISANDRO DE LA TORRE
+379|LOS CONGRESALES     
+380|LOS NOGALES         
+381|LOZANO              
+382|LOZANO              
+383|MADERNA             
+384|MADRID              
+385|MAGALLANES          
+386|MAGALLANES          
+387|MAGALLANES          
+388|MAGALLANES          
+389|MAGALLANES          
+390|MAGALLANES          
+391|MAGALLANES E INDIO  
+392|MAHATMA GHANDI      
+393|MAHATMA GHANDI      
+394|MALARGUE            
+395|MALARGUE            
+396|JOSE MARMOL         
+397|MALARGUE            
+398|MALARGUE            
+399|MALARGUE            
+400|MALAVER             
+401|MALAVER             
+402|MALAVER             
+403|MALBRAN Y PEDRO GIAC
+404|MALDONADO           
+405|MALVINAS            
+406|MALVINAS            
+407|MALVINAS            
+408|MALVINAS            
+409|MALVINAS            
+410|MALVINAS            
+411|MANUEL CARLES       
+412|MAR CHIQUITA        
+413|MAR CHIQUITA        
+414|MAR CHIQUITA        
+415|MAR CHIQUITA        
+416|MAR CHIQUITA Y VIEYT
+417|MARCONI             
+418|MARCONI             
+419|MARCONI             
+420|MARCONI             
+421|MARCOS PAZ          
+422|MARCOS PAZ          
+423|MARCOS PAZ          
+424|MARCOS PAZ          
+425|MARCOS SASTRE       
+426|MARCOS SASTRE       
+427|MARCOS SASTRE       
+428|MARCOS SASTRE       
+429|MARCOS SASTRE       
+430|MARCOS SASTRE       
+431|MARCOS SASTRE       
+432|MARIO BRAVO         
+433|MARIO BRAVO         
+434|MARIO BRAVO         
+435|MARIO BRAVO         
+436|MARIO BRAVO         
+437|MARIO BRAVO         
+438|MARTIN ARENAS       
+439|MARTIN FIERRO       
+440|MARTIN FIERRO       
+441|MARTIN FIERRO       
+442|MARTIN FIERRO       
+443|MARTIN FIERRO       
+444|MATACO              
+445|MATACO              
+446|MATACO              
+447|MATACO              
+448|MATACO              
+449|MATACO              
+450|MATIENZO            
+451|MEDINA              
+452|MEDINA              
+453|MEDINA              
+454|MEDINA              
+455|MEDINA              
+456|MEDINA              
+457|MEDINA              
+458|MEJICO              
+459|MEJICO              
+460|MEJICO              
+461|MELENDEZ            
+462|MELENDEZ            
+463|MELENDEZ            
+464|MELIAN              
+465|MELIAN              
+466|MELIAN              
+467|MENDEZ              
+468|MIGUEL ANGEL RODRIGU
+469|MIGUEL LILLIO       
+470|MILLER              
+471|MILLER              
+472|MILLER              
+473|MILLER              
+474|MILLER              
+475|MILLER              
+476|MILLER              
+477|MIRANDA             
+478|MIRO                
+479|MIRO                
+480|MIRO                
+481|MIRO                
+482|MIRO                
+483|MIRO                
+484|MIRO                
+485|MIRO                
+486|MIRO                
+487|MIRO                
+488|MISIONES            
+489|MISIONES            
+490|MISIONES            
+491|MISIONES            
+492|MISIONES            
+493|MOLINA              
+494|MOLINA ADOLFO E.    
+495|MOLINA ADOLFO E.    
+496|MOLINA SANTOS       
+497|MONTA#ESES          
+498|MONTIEL             
+499|MORAGA              
+500|MORETI              
+501|MORETTI             
+502|MOSCONI             
+503|NICARAGUA           
+504|NICARAGUA           
+505|NOBEL               
+506|NTR.SRA.DE LA MERCED
+507|NU#EZ               
+508|OBARRIO             
+509|OBARRIO             
+510|OBARRIO             
+511|OBARRIO             
+512|OBARRIO             
+513|OBARRIO             
+514|OBARRIO             
+515|OLAZABAL            
+516|OLAZABAL            
+517|OLAZABAL            
+518|OLLEROS             
+519|OLLEROS             
+520|OLLEROS             
+521|OLLEROS             
+522|OLLEROS             
+523|OLLEROS             
+524|OLMOS               
+525|OLMOS               
+526|OLMOS               
+527|OLMOS               
+528|ONELLI              
+529|ONELLI              
+530|ONELLI              
+531|ONELLI              
+532|ONELLI              
+533|ORTIZ CARLOS        
+534|P. ECHAGUE          
+535|PADILLA             
+536|PADILLA             
+537|PADILLA             
+538|PADILLA             
+539|PANAMA              
+540|PANAMA              
+541|PANAMA              
+542|PANAMA              
+543|PASAJE EL HORNERO   
+544|PASO DE LOS PATOS   
+545|PASO DE LOS PATOS   
+546|PAUNERO             
+547|PAUNERO             
+548|PE#A LOZA           
+549|PEDRO CHUTRO        
+550|PEDRO CHUTRO        
+551|PEDRO CHUTRO        
+552|PEDRO CHUTRO        
+553|PEDRO CHUTRO        
+554|PEDRO CHUTRO        
+555|PEDRO GALLO         
+556|PEDRO GALLO         
+557|PEDRO GALLO         
+558|PEDRO GALLO         
+559|PEDRO GALLO         
+560|PEDRO LOZANO        
+561|PEDRO MOLINA        
+562|PEHUAJO             
+563|PILCOMAYO           
+564|PILCOMAYO           
+565|PILCOMAYO           
+566|PIZZURNO            
+567|PIZZURNO            
+568|PLUS ULTRA          
+569|PLUS ULTRA          
+570|PRIMERA JUNTA       
+571|PRIMERA JUNTA       
+572|PRIMERA JUNTA       
+573|PRIMERA JUNTA       
+574|PRIMERA JUNTA       
+575|PUCARA              
+576|PUCARA              
+577|QUERANDIES          
+578|QUERANDIES          
+579|QUERANDIES          
+580|QUERANDIES          
+581|QUERANDIES          
+582|QUERANDIES          
+583|QUERANDIES          
+584|QUERANDIES          
+585|QUERANDIES          
+586|QUITO               
+587|QUITO               
+588|QUITO               
+589|QUITO               
+590|QUITO               
+591|  QUITO             
+592|QUITO               
+593|RAMOS MEJIA         
+594|RAMOS MEJIA         
+595|RAUL SCALABRINI ORTI
+596|RIVAROLA            
+597|RIVAROLA            
+598|RIVAROLA            
+599|RIVAROLA            
+600|RIVAROLA            
+601|RIVAROLA            
+602|ROBERTO ARLT        
+603|ROBERTO ARLT        
+604|RODRIGUEZ           
+605|RODRIGUEZ           
+606|RODRIGUEZ           
+607|RODRIGUEZ           
+608|RODRIGUEZ FLORES    
+609|RODRIGUEZ FLORES    
+610|RODRIGUEZ FLORES    
+611|RODRIGUEZ FLORES    
+612|RODRIGUEZ FLORES    
+613|RODRIGUEZ FLORES    
+614|ROFFO               
+615|ROFFO               
+616|ROFFO               
+617|ROFFO               
+618|ROJAS RICARDO       
+619|ROLDAN              
+620|ROLDAN              
+621|ROMERO              
+622|ROQUE BURGOS        
+623|SABATINI            
+624|SABATTINI AMADEO    
+625|SABATTINI AMADEO    
+626|SABATTINI AMADEO    
+627|SALCEDO             
+628|SALCEDO             
+629|SAN A DEL CAMINO    
+630|SAN A DEL CAMINO    
+631|SAN A DEL CAMINO    
+632|SAN A DEL CAMINO    
+633|SAN ANTONIO DEL CAMI
+634|SAN BENITO          
+635|SAN BENITO          
+636|SAN BENITO          
+637|SAN BENITO          
+638|SAN BENITO          
+639|SAN JUAN            
+640|SANTA TERESITA      
+641|SANTO DOMINGO       
+642|SANTO DOMINGO       
+643|SANTO DOMINGO       
+644|SANTO DOMINGO       
+645|SAYOS               
+646|SAYOS               
+647|SEBASTIAN EL CANO   
+648|SEGURA              
+649|SEGURA              
+650|SEGURA              
+651|SEGUROLA            
+652|SEGUROLA            
+653|SEGUROLA            
+654|SEGUROLA Y ALPATACAL
+655|SEGUROLA Y RUSSEL   
+656|SEQUEIRA            
+657|SINCLAIR            
+658|SINCLAIR ( CASA 55) 
+659|SIVORI              
+660|SIVORI              
+661|SIVORI              
+662|SIVORI              
+663|SIVORI              
+664|SIVORI              
+665|SIVORI              
+666|SOBERANIA           
+667|SOLDADO MOLINA      
+668|SOLDADO MOLINA      
+669|SOLER               
+670|SOLER               
+671|SOLER               
+672|SOLER               
+673|SOLER               
+674|SOMELLERA           
+675|SOMELLERA           
+676|SUCRE               
+677|SUIZA               
+678|T DEL FUEGO         
+679|TAPALQUE            
+680|TASSO               
+681|TEHERAN             
+682|TEMPERLEY           
+683|TERAN               
+684|TIERRA DEL FUEGO    
+685|TIERRA DEL FUEGO    
+686|TREINTA Y TRES      
+687|TREINTA Y TRES      
+688|TRIUNVIRATO         
+689|TRIUNVIRATO         
+690|TRIUNVIRATO         
+691|TRIUNVIRATO         
+692|TRIUNVIRATO         
+693|TRIUNVIRATO         
+694|TRIUNVIRATO         
+695|TUPAC AMARU         
+696|TUPAC AMARU         
+697|UGARTE MANUEL       
+698|URDANETA            
+699|URDANETA            
+700|URDANETA            
+701|URDANETA            
+702|URDANETA            
+703|URUGUAY             
+704|URUGUAY             
+705|URUGUAY             
+706|URUGUAY             
+707|URUGUAY             
+708|USPALLATA           
+709|USPALLATA           
+710|USPALLATA           
+711|USPALLATA           
+712|USPALLATA           
+713|USPALLATA           
+714|VALDEZ              
+715|VELARDE             
+716|VELARDE             
+717|VELARDE             
+718|VELARDEZ            
+719|VENANCIO FLORES     
+720|VENENCIO FLORES     
+721|VENEZUELA           
+722|VENEZUELA           
+723|VENEZUELA           
+724|VICARIO DE MERLO    
+725|VICARIO DE MERLO    
+726|VICTOR HUGO         
+727|VICTOR HUGO         
+728|VICTOR HUGO         
+729|VICTOR HUGO         
+730|VICTOR HUGO         
+731|VICTOR MERCANTE     
+732|VICTORIA            
+733|VICTORIA            
+734|VICTORIA            
+735|VICTORIA            
+736|VICTORIA            
+737|VIEYTES             
+738|VIEYTES             
+739|VIEYTES             
+740|VIEYTES             
+741|VIEYTES             
+742|VIEYTES             
+743|VIEYTES             
+744|VIEYTES             
+745|VIEYTES             
+746|VIGIL               
+747|VIGIL               
+748|VILA FLORES         
+749|VOLTAIRE            
+750|WARNES              
+751|WARNES              
+752|WARNES              
+753|WARNES              
+754|WARNES              
+755|WARNES              
+756|WARNES              
+757|WARNES              
+758|WARNES              
+759|YEGROS              
+760|YEGROS              
+761|YEGROS              
+762|YEGROS              
+763|YEGROS              
+764|YEGROS              
+765|YEGROS              
+766|YEGROS              
+767|YEGROS              
+768|YEGROS              
+769|ZABALETA            
+770|ZABALETA            
+771|ZABALETA            
+772|ZAPIOLA             
+773|ZAPIOLA             
+774|ZAPIOLA             
+775|ZELADA              
+776|ZELADA              
+777|ZELADA              
+778|ZINNY               
+779|ZINNY               
+780|11 DE NOVIEMBRE     
+781|33                  
+782|9 DE JULIO          
+783|9 DE JULIO          
+784|9 DE JULIO          
+785|ACEVEDO             
+786|ACONQUIJA           
+787|ACONQUIJA           
+788|ACONQUIJA           
+789|ACONQUIJA           
+790|ACONQUIJA           
+791|ACONQUIJA           
+792|ACRVEDO             
+793|ALBERDI             
+794|ALEJANDRO SULLIVAN  
+795|ALEJANDRO SULLIVAN  
+796|ALMIRANTE BROWN     
+797|ALMIRANTE BROWN     
+798|ALMIRANTE BROWN     
+799|ALVEAR              
+800|ANDRADE             
+801|ANDRADE             
+802|ANDRADE             
+803|ARAOZ               
+804|ARAOZ               
+805|ARGERICH            
+806|ARISTOBULO DEL VALLE
+807|ASCASUBI HILARIO    
+808|AV ECHEVERRIA       
+809|AV RIVADAVIA        
+810|AV. DE LOS ESTUDIANT
+811|AV. ECHEVERRIA      
+812|AV. ECHEVERRIA      
+813|AYACUCHO            
+814|AYACUCHO            
+815|AYACUCHO            
+816|AYACUCHO            
+817|AYACUCHO            
+818|AYACUCHO            
+819|AYACUCHO            
+820|BARABINO            
+821|BARABINO            
+822|BARABINO            
+823|BARABINO            
+824|BARABINO            
+825|BARABINO            
+826|BARABINO            
+827|BARABINO            
+828|BARABINO            
+829|BARABINO            
+830|BARABINO            
+831|BARABINO            
+832|BARABINO            
+833|BARABINO            
+834|BARABINO            
+835|BARABINO            
+836|BARABINO            
+837|BARTOLOME MITRE     
+838|BARTOLOME MITRE     
+839|BARTOLOME MITRE     
+840|BELGRANO            
+841|BELGRANO            
+842|BELGRANO            
+843|BELGRANO            
+844|BERMUDEZ            
+845|BERMUDEZ            
+846|BERMUDEZ            
+847|BERMUDEZ            
+848|BERMUDEZ            
+849|BERTOLE             
+850|BERUTI              
+851|BERUTI              
+852|BERUTTI             
+853|BOUCHARD            
+854|BOUCHARD            
+855|BOULOGNE SUR MER    
+856|BRASIL              
+857|BRASIL              
+858|BRIAND              
+859|BRIAND              
+860|BRIAND              
+861|CARLOS PELLEGRINI   
+862|CARLOS PELLEGRINI   
+863|CARLOS PELLEGRINI   
+864|CARLOS PELLEGRINI   
+865|CARLOS PELLEGRINI   
+866|CASTRO BARROS       
+867|CASTRO BARROS       
+868|CASTRO BARROS       
+869|CASTRO BARROS       
+870|CASTRO BARROS       
+871|CASTRO BARROS       
+872|CENTENARIO          
+873|CENTENARIO          
+874|CENTENARIO          
+875|CENTENARIO          
+876|CENTENARIO          
+877|CENTENARIO          
+878|CEVALLOS            
+879|CHACO               
+880|CHICLANA            
+881|CHICLANA            
+882|CHICLANA            
+883|CHORROARIN          
+884|CHUBUT              
+885|CHUBUT              
+886|CISNEROS            
+887|CISNEROS            
+888|CISNEROS            
+889|CISNEROS            
+890|CISNEROS            
+891|CISNEROS            
+892|CONGRESO            
+893|CONGRESO            
+894|CONGRESO            
+895|CORREA              
+896|CORREA              
+897|CORREA              
+898|CORRIENTES          
+899|CORRIENTES          
+900|CORRIENTES          
+901|CORRIENTES          
+902|CORRIENTES          
+903|CORRIENTES          
+904|CORRIENTES          
+905|COSQUIN             
+906|COSQUIN             
+907|COSQUIN             
+908|COSQUIN             
+909|COSQUIN             
+910|DARDO ROCHA         
+911|DARDO ROCHA         
+912|DARDO ROCHA         
+913|DIRECTORIO          
+914|DIRECTORIO          
+915|DIRECTORIO          
+916|DIRECTORIO          
+917|DIRECTORIO          
+918|DIRECTORIO          
+919|DIRECTORIO          
+920|DIRECTORIO          
+921|DRUMOND             
+922|DRUMOND             
+923|DRUMOND             
+924|DRUMOND             
+925|ECHEVERRIA          
+926|ECHEVERRIA          
+927|ECHEVERRIA          
+928|ECHEVERRIA          
+929|ECHEVERRIA          
+930|ECHEVERRIA          
+931|ECHEVERRIA          
+932|ECHEVERRIA          
+933|ECHEVERRIA          
+934|EDISON              
+935|EL CEIBO            
+936|EL TRIUNFO          
+937|EL TRIUNFO          
+938|EL TRIUNFO          
+939|ENTRE RIOS          
+940|ENTRE RIOS          
+941|ENTRE RIOS          
+942|ENTRE RIOS          
+943|ENTRE RIOS          
+944|ENTRE RIOS          
+945|ESCALABRINI ORTIZ   
+946|ESPA#A              
+947|ESPA#A              
+948|ESQUIU              
+949|ESQUIU              
+950|ESQUIU              
+951|ESQUIU              
+952|EVA PERON           
+953|EVA PERON           
+954|F.L.BELTRAN         
+955|FINOCHIETTO         
+956|FINOCHIETTO         
+957|FINOCHIETTO         
+958|FINOCHIETTO         
+959|FINOCHIETTO         
+960|FINOCHIETTO         
+961|FORMOSA             
+962|FORMOSA             
+963|FORMOSA             
+964|FORMOSA             
+965|FRAY LUIS BELTRAN   
+966|FRAY LUIS BELTRAN   
+967|FRAY LUIS BELTRAN   
+968|FRAY MAMERTO ESQUIU 
+969|FRENCH              
+970|FRENCH              
+971|FRENCH              
+972|FRENCH              
+973|GARAY               
+974|GARAY               
+975|GERDE               
+976|GRAL GUEMES         
+977|GRAL.ALVEAR         
+978|GUEMES              
+979|GUEMES              
+980|GUEMES              
+981|GUIDO               
+982|GUIDO               
+983|GUIDO SPANO         
+984|GUIDO Y SPANO       
+985|HABANA              
+986|HABANA              
+987|HABANA              
+988|HIDALGO             
+989|HIDALGO             
+990|HIDALGO             
+991|HORTIGUERA          
+992|HORTIGUERA          
+993|HORTIGUERA          
+994|HORTIGUERA          
+995|INDEPENDENCIA       
+996|INDEPENDENCIA       
+997|INDEPENDENCIA       
+998|INDEPENDENCIA       
+999|INDEPENDENCIA       
+1000|INDEPENDENCIA       
+1001|INDEPENDENCIA       
+1002|INDEPENDENCIA       
+1003|ING. BRIAND         
+1004|ITALIA              
+1005|ITALIA              
+1006|ITALIA              
+1007|ITATI               
+1008|ITURRI              
+1009|ITURRI              
+1010|ITURRI              
+1011|ITURRI              
+1012|ITURRI              
+1013|ITURRI              
+1014|J. DIAZ DE SOLIS    
+1015|JOSE HERNANDEZ      
+1016|JUALIO A. ROCA      
+1017|JUAN B ALBERDI      
+1018|JUAN B ALBERDI      
+1019|JUAN B ALBERDI      
+1020|JUAN B ALBERDI      
+1021|JUAN B ALBERDI      
+1022|JUAN B ALBERDI      
+1023|JUAN B ALBERDI      
+1024|JUAN B ALBERDI      
+1025|JUAN B ALBERDI      
+1026|JUAN B ALBERDI      
+1027|JUAN B ALBERDI      
+1028|JUAN B ALBERDI      
+1029|JUAN B ALBERDI      
+1030|JUAN B ALBERDI      
+1031|JULIO A ROCA        
+1032|JULIO A ROCA        
+1033|JULIO A ROCA        
+1034|JULIO A. ROCA       
+1035|L.DE LA TORRE       
+1036|LA ESMERALDA        
+1037|LA ESMERALDA        
+1038|LA NACION           
+1039|LA NACION           
+1040|LA NACION           
+1041|LA PORTE#A          
+1042|LA PORTE#A          
+1043|LA PORTE#A          
+1044|LA PORTE#A          
+1045|LA PORTE#A          
+1046|LA PORTE#A          
+1047|LA PORTE#A          
+1048|LA PORTE#A          
+1049|LA PORTE#A          
+1050|LA PORTE#A          
+1051|LA PORTE#A          
+1052|LA PRENSA           
+1053|LA RAZON            
+1054|LA RAZON            
+1055|LA RAZON            
+1056|LA RAZON            
+1057|LAMBARE             
+1058|LAMBARE             
+1059|  LAMBARE           
+1060|LAMBARE             
+1061|LAS ACACIAS         
+1062|LAS ACACIAS         
+1063|LAS ACACIAS         
+1064|LAS HERAS           
+1065|LAS HERAS           
+1066|LERMA               
+1067|LEVENE              
+1068|LEVENE              
+1069|LEVENE              
+1070|LISANDRO DE LA TORRE
+1071|LISANDRO DE LA TORRE
+1072|LOS  AROMOS         
+1073|LOS ALAMOS          
+1074|LOS ALAMOS          
+1075|LOS ALAMOS          
+1076|LOS ALAMOS          
+1077|LOS AROMOS          
+1078|LOS AROMOS          
+1079|LOS AROMOS          
+1080|LOS AROMOS          
+1081|LOS EUCALIPTOS      
+1082|LOS EUCALIPTUS      
+1083|LOS EUCALIPTUS      
+1084|LOS NOGALES         
+1085|LOS NOGALES         
+1086|LOS NOGALES         
+1087|LOS NOGALES         
+1088|LOS NOGALES         
+1089|LOS PINOS           
+1090|LOS PINOS           
+1091|LOS PINOS           
+1092|LOS PINOS           
+1093|LOS PLATANOS        
+1094|LOS PLATANOS        
+1095|LUIS BELTRAN        
+1096|LUJAN               
+1097|LUJAN               
+1098|LUJAN               
+1099|MADAM CURIE         
+1100|MADAME COURIE       
+1101|MADAME CURIE        
+1102|MADAME CURIE        
+1103|MANUEL QUINTANA     
+1104|MANUELA PEDRAZA     
+1105|MARTIN FIERRO       
+1106|MARTIN FIERRO       
+1107|MARTIN FIERRO       
+1108|MARTIN FIERRO       
+1109|MAZA JUAN A.        
+1110|MAZA JUAN A.        
+1111|MAZA JUAN A.        
+1112|MAZA JUAN A.        
+1113|MAZA JUAN A.        
+1114|MAZZA MANUEL VICENTE
+1115|MEDRANO             
+1116|MONTEVERDE          
+1117|NAVARRO             
+1118|NAVARRO             
+1119|NAVARRO             
+1120|NEUQUEN             
+1121|NEUQUEN             
+1122|NEUQUEN             
+1123|NOBEL               
+1124|NOBEL               
+1125|NOBEL               
+1126|NOBEL               
+1127|NOBEL               
+1128|NOGUERA             
+1129|NOGUERA             
+1130|NOGUERA             
+1131|NOGUERA             
+1132|NOGUERA             
+1133|NOGUERA             
+1134|NOGUERA             
+1135|O.ANDRADE           
+1136|OLEGARIO ANDRADE    
+1137|OLEGARIO V. ANDRADE 
+1138|ORIBE               
+1139|ORIBE               
+1140|ORIBE               
+1141|PASO DE LOS LIBRES  
+1142|PASO DE LOS LIBRES  
+1143|PASO JUAN JOSE      
+1144|PRES. HECTOR CAMPORA
+1145|PUEYRREDON          
+1146|PUEYRREDON          
+1147|PUEYRREDON          
+1148|PUEYRREDON          
+1149|PUEYRREDON          
+1150|PUEYRREDON          
+1151|PUEYRREDON          
+1152|PUEYRREDON          
+1153|PUEYRREDON          
+1154|PUEYRREDON          
+1155|PUEYRREDON          
+1156|QUINTANA            
+1157|QUINTANA            
+1158|QUINTANA            
+1159|QUINTANA            
+1160|QUINTANA            
+1161|R.S. ORTIZ          
+1162|RECONQUISTA         
+1163|RIO NEGRO           
+1164|RIO NEGRO           
+1165|RIO NEGRO           
+1166|RIO NEGRO           
+1167|RIO NEGRO           
+1168|RIO NEGRO           
+1169|RIVADAVIA           
+1170|ROCA                
+1171|ROFFO               
+1172|RUCHARDO            
+1173|S.PE#A              
+1174|SAENZ PE#A          
+1175|SAENZ PE#A          
+1176|SAENZ PE#A          
+1177|SAENZ PE#A          
+1178|SAENZ PE#A          
+1179|SAENZ PE#A          
+1180|SAN JUAN            
+1181|SAN JUAN            
+1182|SAN JUAN            
+1183|SAN JUAN            
+1184|SAN JUAN            
+1185|SAN JUAN            
+1186|SAN JUAN            
+1187|SAN LORENZO         
+1188|SAN LORENZO         
+1189|SAN LUIS            
+1190|SAN MARTIN          
+1191|SANTA FE            
+1192|SANTA FE            
+1193|  SANTIAGO DEL ESTER
+1194|SARGENTO CABRAL     
+1195|SARGENTO CABRAL     
+1196|SARGENTO CABRAL     
+1197|SARGENTO CABRAL     
+1198|SARMIENTO           
+1199|SARMIENTO           
+1200|SARMIENTO           
+1201|SARMIENTO           
+1202|SARMIENTO           
+1203|SARMIENTO           
+1204|SARMIENTO           
+1205|SARMIENTO           
+1206|SARMIENTO           
+1207|SARMIENTO           
+1208|SARMIENTO           
+1209|SARMIENTO           
+1210|SARMIENTO           
+1211|SARMIENTO           
+1212|SARMIENTO           
+1213|SARMIENTO           
+1214|SARMIENTO           
+1215|SARMIENTO           
+1216|SCALABRINI ORTIZ R. 
+1217|SCALABRINI ORTIZ R. 
+1218|SCALABRINI ORTIZ R. 
+1219|SCALABRINI ORTIZ R. 
+1220|SILLIVAN EDIF.43    
+1221|SOLIS               
+1222|SOLIS               
+1223|STA FE              
+1224|SULLIVAN ALEJANDRO  
+1225|SULLIVAN ALEJANDRO  
+1226|SULLIVAN ALEJANDRO  
+1227|SULLIVAN ALEJANDRO  
+1228|SULLIVAN ALEJANDRO  
+1229|SULLIVAN ALEJANDRO  
+1230|SULLIVAN ALEJANDRO  
+1231|SULLIVAN ALEJANDRO  
+1232|SULLIVAN ALEJANDRO  
+1233|SULLIVAN ALEJANDRO  
+1234|SULLIVAN ALEJANDRO  
+1235|SULLIVAN ALEJANDRO  
+1236|SULLIVAN ALEJANDRO  
+1237|SULLIVAN ALEJANDRO  
+1238|SULLIVAN ALEJANDRO  
+1239|SULLIVAN ALEJANDRO  
+1240|SULLIVAN ALEJANDRO  
+1241|SULLIVAN ALEJANDRO  
+1242|SULLIVAN ALEJANDRO  
+1243|SULLIVAN ALEJANDRO  
+1244|SULLIVAN ALEJANDRO  
+1245|SULLIVAN ALEJANDRO  
+1246|TAMARINDO           
+1247|TREINTA Y TRES      
+1248|ZARATE              
+1249|ZARATE              
+1250|1  DE MAYO          
+1251|1  DE MAYO          
+1252|1 DE MAYO           
+1253|1 DE MAYO           
+1254|12 DE FEBRERO       
+1255|12 DE FEBRERO       
+1256|1RO DE MAYO         
+1257|  1� DE MAYO      
+1258|25 DE MAYO          
+1259|25 DE MAYO          
+1260|25 DE MAYO          
+1261|25 DE MAYO          
+1262|25 DE MAYO          
+1263|25 DE MAYO          
+1264|25 DE MAYO          
+1265|25 DE MAYO          
+1266|25 DE MAYO          
+1267|25 DE MAYO          
+1268|25 DE MAYO          
+1269|25 DE MAYO          
+1270|25 DE MAYO          
+1271|25 DE MAYO          
+1272|9 DE JULIO          
+1273|9 DE JULIO          
+1274|9 DE JULIO          
+1275|9 DE JULIO          
+1276|A DEL VALLE         
+1277|A DEL VALLE         
+1278|A. M. RODRIGUEZ     
+1279|A.DEL VALLE         
+1280|ABARRIO             
+1281|ACASSUSO            
+1282|ACASSUSO            
+1283|ACONCAGUA           
+1284|ACONCAGUA           
+1285|ACOYTE              
+1286|
+1287|AGRELO              
+1288|AGUADO              
+1289|AGUADO              
+1290|
+1291|AGUADO              
+1292|AGUADO              
+1293|AGUAPEY             
+1294|AGUAPEY             
+1295|AGUAPEY             
+1296|
+1297|AGUAPEY             
+1298|AGUILAR             
+1299|AGUILAR             
+1300|AGUILAR             
+1301|AGUILAR             
+1302|AGUILAR             
+1303|AGUILAR             
+1304|AGUILAR             
+1305|AIZPURUA            
+1306|ALBARI#OS           
+1307|ALBARI#OS           
+1308|ALBARRACIN          
+1309|ALBENIS             
+1310|ALBENIZ             
+1311|ALBENIZ             
+1312|ALBENIZ             
+1313|ALBENIZ             
+1314|ALBERTI             
+1315|ALBERTI             
+1316|ALBERTI             
+1317|ALBERTO VIGNES      
+1318|ALCORTA             
+1319|ALEJANDRO AGUADO    
+1320|  ALEJANDRO DUMAS   
+1321|ALEM                
+1322|ALEM                
+1323|ALMAFUERTE          
+1324|ALMIRANTE BROWN     
+1325|ALMIRANTE BROWN     
+1326|ALMIRANTE BROWN     
+1327|ALMIRANTE BROWN     
+1328|ALMIRANTE BROWN     
+1329|ALMIRANTE BROWN     
+1330|ALMIRANTE BROWN     
+1331|ALMIRANTE BROWN     
+1332|ALMIRANTE BROWN     
+1333|ALMIRANTE BROWN     
+1334|ALMIRANTE BROWN     
+1335|ALMIRANTE BROWN     
+1336|ALMIRANTE BROWN     
+1337|ALMIRANTE BROWN     
+1338|ALMIRANTE BROWN     
+1339|ALMIRANTE BROWN     
+1340|ALMIRANTE BROWN     
+1341|ALMIRANTE BROWN     
+1342|ALMIRANTE BROWN     
+1343|ALMIRATNTE BROWN    
+1344|ALPATACAL           
+1345|ALPATACAL           
+1346|ALPATACAL           
+1347|ALPATACAL           
+1348|ALPATACAL           
+1349|ALPATACAL           
+1350|ALPATACAL           
+1351|ALPATACAL           
+1352|ALPATACAL           
+1353|ALPATACAL           
+1354|ALPATACAL           
+1355|ALPATACAL           
+1356|ALPATACAL           
+1357|ALPATACAL           
+1358|ALPATACAL           
+1359|ALPATACAL           
+1360|ALPATACAL           
+1361|ALPATACAL           
+1362|ALSINA              
+1363|ALSINA              
+1364|ALSINA              
+1365|ALSINA              
+1366|ALTOAGUIRRE         
+1367|ALTOLAGUIRRE        
+1368|ALTOLAGUIRRE        
+1369|ALVAR NU#EZ         
+1370|ALVARADO            
+1371|ALVAREZ JONTE       
+1372|ALVAREZ THOMAS      
+1373|ALVAREZ THOMAS      
+1374|ALVAREZ THOMAS      
+1375|ALVAREZ THOMAS      
+1376|ALVAREZ TOMAS       
+1377|AMANCIO ALCORTA     
+1378|AMEGHINO            
+1379|AMEGHINO            
+1380|AMEGHINO            
+1381|AMEGHINO            
+1382|AMEGHINO            
+1383|AMEGHINO            
+1384|AMEGHINO            
+1385|AMEGHINO            
+1386|AMEGHINO            
+1387|AMEGHINO            
+1388|AMEGHINO            
+1389|AMEGHINO            
+1390|AMEGHINO            
+1391|AMPERE              
+1392|AMPERE              
+1393|AMUNDSEN            
+1394|ANCASTER            
+1395|ANCHORENA           
+1396|ANCHORIS            
+1397|ANCHORIS            
+1398|ANCHORIS            
+1399|ANCHORIS            
+1400|ANCHORIS            
+1401|ANCON               
+1402|ANCON               
+1403|ANCON               
+1404|ANDALGALA           
+1405|ANDALGALA           
+1406|ANDALGALA           
+1407|ANDERSEN            
+1408|ANDERSEN            
+1409|ANDERSEN            
+1410|ANDONHEGUI          
+1411|ANGEL RODRIGUEZ     
+1412|ANGEL RODRIGUEZ     
+1413|ANTEQUERA           
+1414|ANTEQUERA           
+1415|ANTEQUERA           
+1416|ANTEQUERA           
+1417|ANTEZANA            
+1418|ANTEZANA            
+1419|ANTEZANA            
+1420|ANTEZANA            
+1421|ANTEZANA            
+1422|ANTOFAGASTA         
+1423|ANTOFAGASTA         
+1424|ANTOFAGASTA Y PAYRO 
+1425|ARAOZ               
+1426|ARAOZ               
+1427|ARAOZ               
+1428|ARAOZ               
+1429|ARENALES            
+1430|ARENALES            
+1431|ARENALES            
+1432|ARENALES            
+1433|ARENALES            
+1434|ARENALES            
+1435|ARENALES            
+1436|ARENALES            
+1437|AREVALO             
+1438|AREVALO             
+1439|ARGERICH            
+1440|ARGERICH            
+1441|ARGERICH            
+1442|ARGERICH            
+1443|ARGERICH            
+1444|ARGERICH            
+1445|ARGERICH            
+1446|ARISTOBULO DEL VALLE
+1447|ARISTOBULO DEL VALLE
+1448|ARISTOBULO DEL VALLE
+1449|ARISTOBULO DEL VALLE
+1450|ARISTOBULO DEL VALLE
+1451|ARISTOBULO DEL VALLE
+1452|ARISTOBULO DEL VALLE
+1453|ARISTOBULO DEL VALLE
+1454|ARISTOBULO DEL VALLE
+1455|ARISTOBULO DEL VALLE
+1456|ARISTOBULO DEL VALLE
+1457|ARISTOBULO DEL VALLE
+1458|ARISTOBULO DEL VALLE
+1459|ARISTOBULO DEL VALLE
+1460|ARISTOBULO DEL VALLE
+1461|ARISTOBULO DEL VALLE
+1462|ARISTOBULO DEL VALLE
+1463|ARISTOBULO DEL VALLE
+1464|ARISTOBULO DEL VALLE
+1465|ARREDONDO           
+1466|ARREDONDO           
+1467|ARREDONDO           
+1468|ARREDONDO           
+1469|ARREDONDO           
+1470|ARREDONDO           
+1471|ARREDONDO           
+1472|ARREDONDO           
+1473|ARREDONDO           
+1474|ARREGUI             
+1475|ARTIGAS             
+1476|ASUCENAS            
+1477|ASUNCION            
+1478|ATAHUALPA           
+1479|AV ARGENTINA        
+1480|AV ARGENTINA        
+1481|AV ARGENTINA E/P BEN
+1482|AV BIENTENARIO      
+1483|AV DEL LIBERTADOR   
+1484|AV SAN MARTIN       
+1485|MIRANDA             
+1486|AV. CONSTITUCION    
+1487|AV. JULIAN CASTRO   
+1488|AV. RICARDO BALBIN  
+1489|AV. RICARDO BALBIN  
+1490|AV. SAN MARTIN      
+1491|AV. SAN MARTIN      
+1492|AV. YRIGOYEN        
+1493|AVDA CALLE REAL     
+1494|AVDA DE LA CALLE REA
+1495|AVDA. ARGENTINA     
+1496|AVDA. ARGENTINA     
+1497|AVDA. ARGENTINA     
+1498|AVDA. ARGENTINA     
+1499|AVDA. ARGENTINA     
+1500|AVDA. ARGENTINA     
+1501|AVDA. ARGENTINA     
+1502|AVDA. ARGENTINA     
+1503|AVDA. ARGENTINA     
+1504|AVDA. ARGENTINA     
+1505|AVDA. ARGENTINA     
+1506|AVDA. ARGENTINA     
+1507|AVDA. ARGENTINA     
+1508|AVDA. CALLE REAL    
+1509|AVDA. CALLE REAL    
+1510|AVDA. CALLE REAL    
+1511|AVDA. CALLE REAL    
+1512|AVDA. CARLOS MUJICA 
+1513|AVDA. EL CORTIJO    
+1514|AVDA. SAN MARTIN    
+1515|AVELLANEDA          
+1516|AVELLANEDA          
+1517|AVELLANEDA          
+1518|AVENIDA ARGENTINA   
+1519|AVENIDA BICENTENARIO
+1520|AVENIDA BICENTENARIO
+1521|AYACUCHO            
+1522|AYERZA              
+1523|AYOHUMA             
+1524|AZARA               
+1525|AZARA               
+1526|AZARA               
+1527|AZARA               
+1528|AZARA               
+1529|AZARA               
+1530|AZARA               
+1531|AZARA               
+1532|AZARA               
+1533|AZARA               
+1534|AZARA               
+1535|AZARA               
+1536|AZARA E/ LOURDES Y T
+1537|AZCUENAGA           
+1538|AZCUENAGA           
+1539|AZCUENAGA           
+1540|AZOPARDO            
+1541|AZOPARDO            
+1542|AZOPARDO            
+1543|AZOPARDO            
+1544|AZUL                
+1545|AZUL                
+1546|AZURDUY             
+1547|AZURDUY             
+1548|B MITRE             
+1549|BACACAY             
+1550|BACH                
+1551|BACH                
+1552|BACH                
+1553|BACH                
+1554|BACH                
+1555|BACH                
+1556|BACH                
+1557|BAIGORRIA           
+1558|BAIGORRIA           
+1559|BAIGORRIA           
+1560|BALBASTRO           
+1561|BALBASTRO           
+1562|BALBASTRO           
+1563|BALBASTRO           
+1564|BALBASTRO           
+1565|BALBASTRO           
+1566|BALBASTRO           
+1567|BALCARCE            
+1568|BALCARCE            
+1569|BALCARCE            
+1570|BALCARCE            
+1571|BALCARCE            
+1572|BALCARCE            
+1573|BALCARCE            
+1574|BALCARCE            
+1575|BALCARCE            
+1576|BALCARCE            
+1577|BALCARCE            
+1578|BALCARCE            
+1579|BALCARCE            
+1580|BALCARCE            
+1581|BALCARSE            
+1582|BARCALA             
+1583|BARCALA             
+1584|BARCALA             
+1585|BARCENA             
+1586|BARILOCHE           
+1587|BARILOCHE           
+1588|BARILOCHE           
+1589|BARILOCHE           
+1590|BARILOCHE           
+1591|BARILOCHE           
+1592|BARILOCHE           
+1593|BARILOCHE           
+1594|BARILOCHE           
+1595|BARILOCHE           
+1596|BARTOLOME MITRE     
+1597|BARTOLOME MITRE     
+1598|BARTOLOME MITRE     
+1599|BARTOLOME MITRE     
+1600|BARTOLOME MITRE     
+1601|BARTOLOME MITRE     
+1602|BARTOLOME MITRE     
+1603|BARTOLOME MITRE     
+1604|BARTOLOME MITRE     
+1605|BARTOLOME MITRE     
+1606|BARTOLOME MITRE     
+1607|BARTOLOME MITRE     
+1608|BARTOLOME MITRE     
+1609|BATALLA DE AYOHUMA  
+1610|BAUNES              
+1611|BAUNES              
+1612|BAUNES              
+1613|BAUNES              
+1614|BAUNES              
+1615|BEBEDER             
+1616|BEBEDERO            
+1617|BEBEDERO            
+1618|BEBEDERO            
+1619|BEBEDERO            
+1620|BEBEDERO            
+1621|BEBEDERO            
+1622|BELEN               
+1623|BELEN               
+1624|BELEN               
+1625|BELEN               
+1626|BELEN               
+1627|BELEN               
+1628|BELEN               
+1629|BELGRANO            
+1630|BELGRANO            
+1631|  BELGRANO          
+1632|BELGRANO            
+1633|BELLA VISTA         
+1634|BENAVENTE           
+1635|BENAVENTE           
+1636|BENAVENTE           
+1637|BENAVENTE           
+1638|BERTOLE             
+1639|BERTOLE             
+1640|BERTOLE             
+1641|BERTOLE             
+1642|BERTOLE             
+1643|BERTOLE             
+1644|BERTOLE             
+1645|BERTOLET            
+1646|BERUTI              
+1647|BERUTTI             
+1648|BERUTTI             
+1649|BERUTTI             
+1650|BERUTTI             
+1651|BETHOBEN            
+1652|BETTINOTI           
+1653|BETTINOTI           
+1654|BETTINOTI           
+1655|BETTINOTI           
+1656|BILBAO              
+1657|BILBAO              
+1658|BILBAO              
+1659|BILBAO              
+1660|BLANCO ENCALADA     
+1661|BLANCO ENCALADA     
+1662|BLANCO ENCALADA     
+1663|BLANCO ENCALADA     
+1664|BLANCO ENCALADA     
+1665|BLANCO ENCALADA     
+1666|BLOMBERG            
+1667|BOEDO M.            
+1668|BOEDO M.            
+1669|BOLIVAR             
+1670|BOLIVAR             
+1671|BOMPLAN             
+1672|BOMPLAND            
+1673|BOMPLAND            
+1674|BOULOGNE SUR MER    
+1675|BOYACA              
+1676|BRAILLE             
+1677|BRAILLE             
+1678|BRASIL              
+1679|BRASIL              
+1680|BRASIL              
+1681|BRASIL              
+1682|BRASIL              
+1683|BRASIL              
+1684|BRASIL              
+1685|BRASIL              
+1686|BRASIL              
+1687|BRASIL              
+1688|BRASIL              
+1689|BRASIL              
+1690|BRASIL              
+1691|BRASIL              
+1692|BRIAND              
+1693|BRIAND              
+1694|BRIAND              
+1695|BROWN               
+1696|BRUNET              
+1697|BRUNET              
+1698|BRUNET              
+1699|BULNES              
+1700|BULNES              
+1701|  BULNES            
+1702|BULNES              
+1703|BULNES              
+1704|BULNES              
+1705|BURELA              
+1706|BURELA              
+1707|BURELA              
+1708|BURELA              
+1709|BURELA              
+1710|BURELA              
+1711|BURELA              
+1712|BURELA              
+1713|BURELA              
+1714|BURELA              
+1715|BURELA              
+1716|BURELA              
+1717|BURGOS              
+1718|C. GARDEL           
+1719|CAAGUAZU            
+1720|CAAGUAZU            
+1721|CAAGUAZU            
+1722|CAAGUAZU            
+1723|CAAGUAZU            
+1724|CAAGUAZU            
+1725|CABILDO             
+1726|CABRERA             
+1727|CACHEUTA            
+1728|CACHEUTA            
+1729|CACHEUTA            
+1730|CACHEUTA            
+1731|CACHEUTA            
+1732|CACHEUTA            
+1733|CACHEUTA            
+1734|CACHEUTA            
+1735|CACHIMAYO           
+1736|CACHIMAYO           
+1737|CADELAGO            
+1738|CAGLIERO            
+1739|CALFUCURA           
+1740|CALFUCURA           
+1741|CALLAO              
+1742|CALLAO              
+1743|CAMPICHUELO         
+1744|CAMPICHUELO         
+1745|CAMPICHUELO         
+1746|CAMPICHUELO         
+1747|CAMPICHUELO         
+1748|CAMPICHUELO         
+1749|CAMPICHUELO         
+1750|CAMPICHUELO         
+1751|CAMPICHUELO         
+1752|CAMPICHUELO         
+1753|CAMPILLO            
+1754|CAMPILLO            
+1755|CAMPILLO            
+1756|CAMPORA             
+1757|CARABOBO            
+1758|CARABOBO            
+1759|CARABOBO            
+1760|CARABOBO            
+1761|CARAFA              
+1762|CARCABELLO          
+1763|CARCARA#A           
+1764|CARCARA#A           
+1765|CARDENAS            
+1766|  CARDENAS          
+1767|CARDENAS            
+1768|CARDENAS            
+1769|CARDENAS            
+1770|CARDENAS            
+1771|CARDENAS            
+1772|CARDENAS            
+1773|CARDENAS            
+1774|CARDENAS            
+1775|CARDENAS            
+1776|CARHUE              
+1777|  CARLOS GARDEL     
+1778|CARLOS GARDEL       
+1779|CARLOS OLIVERA      
+1780|CARLOS PELLEGRINI   
+1781|CARLOS PELLEGRINI   
+1782|CARLOS PELLEGRINI   
+1783|CARLOS PELLEGRINI   
+1784|CARLOS PELLEGRINI   
+1785|
+1786|CARLOS PELLEGRINI   
+1787|CARLOS PELLEGRINI   
+1788|CARLOS TEJEDOR      
+1789|CARLOS TEJEDOR      
+1790|CARLOS TEJEDOR      
+1791|CASACUBERTA         
+1792|CASTELAR            
+1793|CASTELLI            
+1794|CASTELLI            
+1795|CATAMARCA           
+1796|CENECA              
+1797|CENTENARIO          
+1798|CENTENERA           
+1799|CENTENERA           
+1800|CENTENERA           
+1801|CENTENERA           
+1802|CENTENERA  (RECONQUI
+1803|CENTENERA E/PAYRO Y 
+1804|CENTENO             
+1805|CERCARA#A           
+1806|CERVANTES           
+1807|CERVANTES           
+1808|CERVANTES           
+1809|CERVANTES           
+1810|CERVANTES           
+1811|CERVI#O             
+1812|CERVI#O Y KOCH      
+1813|CESAR H. GARAT      
+1814|CHACABUCO           
+1815|CHACABUCO           
+1816|CHAPEAROUGE         
+1817|CHAPEAURROUGE       
+1818|CHAPEAURROUGE       
+1819|CHAPEAURROUGE       
+1820|CHAPEAURROUGE       
+1821|CHAPEAURROUGE       
+1822|CHOCANO             
+1823|CHOCANO             
+1824|CHOCANO             
+1825|CHOCANO             
+1826|CHOCANO             
+1827|CHOCANO             
+1828|CHOCANO             
+1829|CHOCANO             
+1830|CHOCANO             
+1831|CIPOLETTI           
+1832|CIPOLLETI           
+1833|CIPOLLETI           
+1834|CIPOLLETI           
+1835|CIPOLLETI           
+1836|CNEL GREGORIO PERDRI
+1837|COCHABAMBA          
+1838|COLODRERO           
+1839|COLODRERO           
+1840|COLODRERO           
+1841|COLODRERO           
+1842|COLODRERO           
+1843|COLODRERO           
+1844|COLODRERO           
+1845|COLODRERO           
+1846|COLODRERO           
+1847|COLODRERO           
+1848|COLOMBIA            
+1849|COLOMBIA            
+1850|COLOMBIA            
+1851|COMTE               
+1852|CONSTITUCION        
+1853|CONSTITUCION        
+1854|CONSTITUCION        
+1855|CONSTITUCION        
+1856|CONSTITUCION        
+1857|CONSTITUCION        
+1858|CONTE               
+1859|CONTE               
+1860|CORDOBA             
+1861|CORDOBA             
+1862|CORDOBA             
+1863|INDEPENDENCIA       
+1864|CORNELIO SAAVEDRA   
+1865|CORNELIO SAAVEDRA   
+1866|CORONDA             
+1867|CORONDA             
+1868|CORONEL SALVADORES  
+1869|CORREA              
+1870|CORVALAN            
+1871|CORVALAN            
+1872|CORVALAN            
+1873|COSSIO              
+1874|COSSIO              
+1875|COSSIO              
+1876|COSSIO              
+1877|COSSIO              
+1878|COSSIO              
+1879|COSSIO              
+1880|COSTA               
+1881|COSTA               
+1882|CRAIG               
+1883|CRAMER              
+1884|CUCHA CUCHA         
+1885|CUCHA CUCHA         
+1886|CUENCA              
+1887|CURAPALIGUE         
+1888|CURAPALIGUE         
+1889|CURAPALIGUE         
+1890|CURAPALIGUE         
+1891|CURAPALIGUE         
+1892|CURAPALIGUE         
+1893|CURAPALIGUE         
+1894|CURAPALIGUE         
+1895|CURAPALIGUE         
+1896|CURAPALIGUE         
+1897|CURUPAYTI           
+1898|CURUPAYTI           
+1899|CURUPAYTI           
+1900|CURUPAYTI           
+1901|CURUPAYTI           
+1902|CURUPAYTI           
+1903|CURUPAYTI           
+1904|CURUPAYTI           
+1905|CURUPAYTI           
+1906|CURUPAYTI           
+1907|CURUPAYTI           
+1908|CURUPAYTI Y TOAY    
+1909|CURUZU CUATIA       
+1910|CURUZU CUATIA       
+1911|CURUZU CUATIA       
+1912|CURUZU CUATIA Y DE M
+1913|DALIAS Y CLAVELES   
+1914|DALTON              
+1915|DANTE ALIGHIERI     
+1916|DARWIN              
+1917|DARWIN              
+1918|DAVILA              
+1919|DE COLON            
+1920|CARDENAS            
+1921|DE CUBA             
+1922|DE LA AMISTAD       
+1923|DE LA CARCOVA       
+1924|DE LA CARCOVA       
+1925|DE LA CARCOVA       
+1926|DE LA CARCOVA       
+1927|DE LA RIVERA        
+1928|DE LA UNION         
+1929|DE LA VIRGEN        
+1930|DE LAS CARRETAS     
+1931|DE LOS ESPA#OLES    
+1932|DE LOS ESPA#OLES    
+1933|DE LUCA             
+1934|DE LUCA             
+1935|DE MARIA            
+1936|DE MARIA            
+1937|DE ROSAS ENRIQUE    
+1938|DE ROSAS JUAN MANUEL
+1939|DE ROSAS JUAN MANUEL
+1940|DEAN FUNES          
+1941|DEAN FUNES          
+1942|DEAN FUNES          
+1943|DEAN FUNES          
+1944|DEAN FUNES          
+1945|DEAN FUNES          
+1946|DEAN FUNES          
+1947|DEAN FUNES          
+1948|DEAN FUNES          
+1949|DEAN FUNES          
+1950|DEAN FUNES          
+1951|DEAN FUNES          
+1952|DEAN FUNES          
+1953|DEAN FUNES          
+1954|DEAN FUNES          
+1955|DEAN FUNES          
+1956|DEAN FUNES          
+1957|DEAN FUNES          
+1958|DEAN FUNES          
+1959|DEAN FUNES          
+1960|DEAN FUNES          
+1961|DEAN FUNES          
+1962|DEAN FUNES B  POMPEY
+1963|DEFENZA CASA        
+1964|DEHEZA              
+1965|DEL CAMPO           
+1966|DEL CAMPO           
+1967|DEMOCRACIA          
+1968|DEMOCRACIA          
+1969|DEMOCRACIA          
+1970|DEMOCRACIA          
+1971|DEMOCRACIA Y PEYRET 
+1972|DESS Y              
+1973|DESSY               
+1974|DESSY               
+1975|DESSY               
+1976|DIAZ DE SOLIS       
+1977|DIAZ VELEZ          
+1978|DILLON              
+1979|DILLON              
+1980|DILLON              
+1981|DILLON              
+1982|DILLON              
+1983|DILLON              
+1984|DILLON              
+1985|DILLON              
+1986|DILLON              
+1987|DILLON              
+1988|DOBLAS              
+1989|DOCTOR CHAGAS       
+1990|DOCTOR CHAGAS       
+1991|DONATO ALVAREZ      
+1992|  DORREGO           
+1993|DORREGO             
+1994|DORREGO             
+1995|PERICON             
+1996|DORREGO             
+1997|DORREGO             
+1998|DORREGO             
+1999|DORREGO             
+2000|DORREGO             
+2001|DUAYEN              
+2002|DUAYEN              
+2003|DUAYEN              
+2004|DUCASSE             
+2005|DUMAS               
+2006|DUMAS               
+2007|DUMAS               
+2008|DUMAS               
+2009|DUMAS               
+2010|DUMAS               
+2011|DUMAS               
+2012|DUMAS               
+2013|DUMAS               
+2014|E MAYOR DE GOBIERNO 
+2015|ECHAGUE             
+2016|ECHAGUE             
+2017|ECHEVERRY           
+2018|ECHEVERRY           
+2019|ECHEVERRY           
+2020|ECHEVERRY           
+2021|EDISON              
+2022|EDUARDO COSTAS      
+2023|EGIPTO              
+2024|EIFEL               
+2025|EIFFEL              
+2026|EINSTEIN            
+2027|EINSTEIN            
+2028|EINSTEIN            
+2029|EINSTEIN            
+2030|EINSTEIN            
+2031|EINSTEIN            
+2032|EINSTEIN            
+2033|EINSTEIN            
+2034|EINSTEIN - PARQUE SA
+2035|EINSTEN             
+2036|EL CORTEJO          
+2037|EL FUNDADOR Y EL COR
+2038|EL PAYADOR          
+2039|EL PERICON          
+2040|EL TREBOL           
+2041|ELIZALDE            
+2042|EMILIO CARAFFA      
+2043|EPECUEN             
+2044|ESCALADA            
+2045|ESCOBAR             
+2046|ESCRIBANO MAYOR DE G
+2047|ESPORA              
+2048|ESQUIU              
+2049|ESTABAN DE LUCA     
+2050|ESTEBAN DE LUCAS    
+2051|EUROPA              
+2052|EVA PERON           
+2053|EZEIZA              
+2054|EZEIZA              
+2055|EZEIZA              
+2056|EZEIZA              
+2057|F. LACROZE          
+2058|FADER               
+2059|FADER               
+2060|FADER               
+2061|FADER               
+2062|FAGNANO             
+2063|FAGNANO             
+2064|FAMATINA            
+2065|FAMATINA            
+2066|FAMATINA            
+2067|FAMATINA            
+2068|FAMATINA            
+2069|FAMATINA            
+2070|FEDERICO LACROZE    
+2071|FEDERICO LACROZE    
+2072|FEDERICO LACROZE    
+2073|FERRARI             
+2074|FEVAL               
+2075|FEVAL               
+2076|FEVAL               
+2077|FEVAL               
+2078|FEVAL               
+2079|FEVAL               
+2080|FEVAL               
+2081|FEVAL               
+2082|FEVAL               
+2083|FILIBERTO           
+2084|FILIBERTO           
+2085|FILIBERTO           
+2086|FILIBERTO           
+2087|FILIBERTO           
+2088|FILIBERTO           
+2089|FILIBERTO           
+2090|FILIBERTO           
+2091|FILIBERTO           
+2092|FINOCHIETTO         
+2093|FLEMIN              
+2094|FLEMING             
+2095|FLEMING             
+2096|FLEMING             
+2097|FLEMING             
+2098|FLEMING             
+2099|FLEMING             
+2100|FLEMING             
+2101|FLEMING             
+2102|FLEMING             
+2103|FLEMING             
+2104|FLEMING             
+2105|FLORENCIO SANCHEZ   
+2106|FORMOSA             
+2107|FORMOSA             
+2108|FORMOSA             
+2109|FORMOSA             
+2110|FORMOSA             
+2111|FORMOSA             
+2112|FORMOSA             
+2113|FORMOSA             
+2114|FORMOSA             
+2115|FORMOSA             
+2116|FORMOSA             
+2117|FORMOSA             
+2118|FORMOSA             
+2119|FORMOSA             
+2120|FORMOSA             
+2121|FORMOSA ESQ. SAN ANT
+2122|FRAGA               
+2123|FRAGA               
+2124|FRAGA               
+2125|FRAGA               
+2126|FRAGA               
+2127|FRAGA               
+2128|FRAGA               
+2129|FRAGA               
+2130|FRAGA               
+2131|FRAGA               
+2132|FRAGA               
+2133|FRAGATA SARMIENTO   
+2134|FRAGATA SARMIENTO   
+2135|FREIRE              
+2136|FRENCH              
+2137|FRENCH              
+2138|FRENCH              
+2139|FRENCH              
+2140|FRERS               
+2141|FRIAS               
+2142|FRIAS               
+2143|FRIAS               
+2144|G. PEDRIEL          
+2145|G. RAWSON           
+2146|GABOTO              
+2147|GABOTO              
+2148|GABOTO              
+2149|GABOTO              
+2150|GABOTO              
+2151|GABOTO              
+2152|GABOTO              
+2153|GABOTO              
+2154|GABOTO              
+2155|GABOTO              
+2156|GABOTO              
+2157|GABOTO              
+2158|GABRIELA MISTRAL    
+2159|GABRIELA MISTRAL    
+2160|GALENO              
+2161|GAONA               
+2162|GARAL SAVIO         
+2163|GARAT               
+2164|GARAT CESAR H.      
+2165|GARAY               
+2166|GARAY               
+2167|GARAY               
+2168|GARAY               
+2169|GARAY               
+2170|GARAY               
+2171|GARAY               
+2172|GARAY               
+2173|GARAY               
+2174|GARAY               
+2175|GARAY               
+2176|GARAY               
+2177|GARAY               
+2178|GARAY               
+2179|GARCIA BELLOSO      
+2180|GARMENDIA           
+2181|GARMENDIA           
+2182|GARMENDIA           
+2183|GARMENDIA           
+2184|GARMENDIA           
+2185|GARMENDIA           
+2186|GARMENDIA           
+2187|GARMENDIA E/AV. ARGE
+2188|GASCON              
+2189|GASCON              
+2190|GASCON              
+2191|GASCON              
+2192|GAVILAN             
+2193|GAVILAN             
+2194|GENERAL PAZ         
+2195|GERMANDIA Y SALA    
+2196|GIRARDOT            
+2197|GIRARDOT            
+2198|GOMES FRETES        
+2199|GOMEZ FRETES        
+2200|GOMEZ FRETES        
+2201|GOMEZ FRETES        
+2202|GOMEZ FRETES        
+2203|GOMEZ FRETES        
+2204|GOMEZ FRETES        
+2205|GOMEZ FRETES        
+2206|GORDILLO            
+2207|GOUNOD              
+2208|GOUNOT              
+2209|GOUNOT              
+2210|GOUNOT              
+2211|GOYA                
+2212|GOYA                
+2213|GOYA                
+2214|GOYA                
+2215|GRAL E MOSCONI      
+2216|GRAL PAZ            
+2217|GRAL PAZ            
+2218|GRAL PAZ            
+2219|GRAL PAZ            
+2220|GRANADEROS          
+2221|GREGORIA MATORRAS   
+2222|GUARDIA VIEJA       
+2223|GUARDIA VIEJA       
+2224|GUARDIA VIEJA       
+2225|GUARDIA VIEJA       
+2226|GUARDIA VIEJA       
+2227|GUARDIA VIEJA       
+2228|GUARDIA VIEJA       
+2229|GUARDIA VIEJA       
+2230|GUARDIA VIEJA       
+2231|GUAYAQUIL           
+2232|GUAYAQUIL           
+2233|GUAYAQUIL           
+2234|GUAYAQUIL           
+2235|GUAYAQUIL           
+2236|GUAYAQUIL           
+2237|GUAYAQUIL           
+2238|GUAYAQUIL           
+2239|GUEMES              
+2240|GUEMES              
+2241|GUEMES              
+2242|GUEMES              
+2243|GUEMES              
+2244|GUEMES              
+2245|GUEMES              
+2246|GUEMES              
+2247|GUEMES              
+2248|GUIRALDES           
+2249|GUIRALDES           
+2250|GUIRALDES           
+2251|GURRUCHAGA          
+2252|HELVECIA            
+2253|HELVECIA            
+2254|HEREDIA             
+2255|HEREDIA             
+2256|HERNAN CORTES       
+2257|HEROES DEL FOURNIER 
+2258|HEROES DEL FOURNIER 
+2259|HEROES DEL FOURNIER 
+2260|HEROES DEL FOURNIER 
+2261|HEROES DEL FOURNIER 
+2262|HILARIO CUADROS     
+2263|HILARIO CUADROS     
+2264|HIPOLITO YRIGOYEN   
+2265|HIPOLITO YRIGOYEN   
+2266|HIPOLITO YRIGOYEN   
+2267|HONDURAS            
+2268|HORNOS              
+2269|HUEMUL              
+2270|HUERGO Y RAMALLO    
+2271|HURTADO             
+2272|I. BRIANA Y P. LACOS
+2273|INCLAN              
+2274|INCLAN              
+2275|INDEPENDENCIA       
+2276|INDEPENDENCIA       
+2277|INDEPENDENCIA       
+2278|INDEPENDENCIA       
+2279|INDEPENDENCIA       
+2280|INDEPENDENCIA       
+2281|INDEPENDENCIA       
+2282|INDEPENDENCIA       
+2283|INDEPENDENCIA       
+2284|INDEPENDENCIA       
+2285|INDEPENDENCIA       
+2286|INDEPENDENCIA       
+2287|INDEPENDENCIA       
+2288|INDEPENDENCIA       
+2289|INDEPENDENCIA       
+2290|INDEPENDENCIA       
+2291|
+2292|ING CESAR CIPOLLETTI
+2293|INGENIERO HUERGO    
+2294|INT.LEOPOLDO SUAREZ 
+2295|INT.LEOPOLDO SUAREZ 
+2296|INT.LEOPOLDO SUAREZ 
+2297|INT.LEOPOLDO SUAREZ 
+2298|INT.LEOPOLDO SUAREZ 
+2299|INT.LEOPOLDO SUAREZ 
+2300|INT.LEOPOLDO SUAREZ 
+2301|INT.LEOPOLDO SUAREZ 
+2302|INT.LEOPOLDO SUAREZ 
+2303|INT.LEOPOLDO SUAREZ 
+2304|INT.LEOPOLDO SUAREZ 
+2305|INT.LEOPOLDO SUAREZ 
+2306|IRIARTE             
+2307|  IRIARTE           
+2308|IRIARTE             
+2309|IRIARTE             
+2310|IRIGOYEN            
+2311|ISAAC BELSKY        
+2312|ISAAC BELSKY        
+2313|ISARRA JUANA        
+2314|ITALIA              
+2315|ITURRI              
+2316|IVANOWSKI           
+2317|IWANOSWKI           
+2318|IWANOSWKI           
+2319|IWANOSWKI           
+2320|IWANOSWKI           
+2321|IWANOSWKI           
+2322|IWANOSWKI           
+2323|IWANOSWKI           
+2324|J M CASTRO          
+2325|J. MANUEL DE ROSAS  
+2326|J.H. CAMPORA        
+2327|J.V. GONZALEZ       
+2328|JOAQUIN B. GONZALEZ 
+2329|JOAQUIN V GONZALEZ  
+2330|JOAQUIN V GONZALEZ  
+2331|JOAQUIN V. GONZALEZ 
+2332|JOAQUIN V. GONZALEZ 
+2333|JOAQUIN V. GONZALEZ 
+2334|JOAQUIN V. GONZALEZ 
+2335|JOAQUIN V. GONZALEZ 
+2336|JOAQUIN V. GONZALEZ 
+2337|JOAQUIN V.GONZALEZ  
+2338|JORGE ISAAC         
+2339|JORGE ISAAC         
+2340|JOSE INGENIEROS     
+2341|JOSE MARTI          
+2342|JOSE MARTI          
+2343|JOSE MARTI          
+2344|JOSE MARTI          
+2345|JOSE MARTI          
+2346|JOSE MARTIN         
+2347|JOSE PICO           
+2348|JOSE PICO           
+2349|JUAN B JUSTO        
+2350|JUAN B JUSTO        
+2351|JUAN B JUSTO        
+2352|JUAN B JUSTO        
+2353|JUAN B JUSTO        
+2354|JUAN B JUSTO        
+2355|JUAN B JUSTO        
+2356|JUAN B JUSTO        
+2357|JUAN BACH           
+2358|JUAN MANUEL DE ROSAS
+2359|JUAN NEPPER         
+2360|JUAN POSSE          
+2361|JUAN SEBASTIAN BACH 
+2362|JUAN XXIII          
+2363|JUANA AZURDUY       
+2364|JUANA AZURDUY       
+2365|JUANA MANSO         
+2366|JUFRE               
+2367|JUJUY               
+2368|JUJUY               
+2369|JUJUY               
+2370|JUJUY               
+2371|JUJUY               
+2372|JUJUY               
+2373|JUJUY               
+2374|JUJUY               
+2375|JULIAN M CASTRO     
+2376|JULIAN M CASTRO     
+2377|JULIAN M CASTRO     
+2378|JULIAN M CASTRO     
+2379|JULIAN M CASTRO     
+2380|JULIAN M CASTRO     
+2381|JUNCAL              
+2382|JUNCAL              
+2383|JUNCAL              
+2384|JUNCAL              
+2385|KENNEDY             
+2386|KENNEDY             
+2387|KOCH                
+2388|KOCH                
+2389|L J SALGUERO Y CABRE
+2390|L N ALEM            
+2391|L. DE LA TORRE      
+2392|L. N. ALEM          
+2393|L. N. ALEM          
+2394|L.N ALEM            
+2395|LA CAMBACITA        
+2396|LA CARCOVA          
+2397|LA GACETA           
+2398|LA NI#A             
+2399|LA NI#A             
+2400|LA PRIDA            
+2401|LACAYETTE           
+2402|LACOSTE             
+2403|LAFAYETTE           
+2404|LAFAYETTE           
+2405|LAFINUR             
+2406|LAFINUR             
+2407|LAGOMARSINO         
+2408|LAGOMARSINO         
+2409|LAGOMARSINO         
+2410|LAGOMARSINO         
+2411|LAGOMARSINO         
+2412|LAPRIDA             
+2413|LAPRIDA             
+2414|LAPRIDA             
+2415|LAPRIDA             
+2416|LAPRIDA             
+2417|LAPRIDA             
+2418|LAPRIDA             
+2419|LARRA#AGA           
+2420|LARRA#AGA           
+2421|LARRA#AGA           
+2422|LARRA#AGA           
+2423|LARRA#AGA           
+2424|LARRA#AGA           
+2425|LARRA#AGA           
+2426|LARRA#AGA           
+2427|LARRA#AGA           
+2428|LARREA              
+2429|LARREA              
+2430|LARREA              
+2431|LARSEN              
+2432|LAS AZUCENAS        
+2433|LAS AZUCENAS        
+2434|LAS DALIAS          
+2435|LAS GARDENIAS       
+2436|LAS LILAS           
+2437|LAS MAGNOLIAS       
+2438|LAS MAGNOLIAS       
+2439|LAS MARIMONIAS      
+2440|LAS ORQUIDEAS       
+2441|LAUTARO             
+2442|LAUTARO             
+2443|LAUTARO             
+2444|LAUTARO             
+2445|LAUTARO             
+2446|LAUTARO             
+2447|LAUTARO             
+2448|LAUTARO             
+2449|LAUTARO             
+2450|LAVALLE             
+2451|LAVALLE             
+2452|LAVALLE             
+2453|LAVALLEJA           
+2454|LEANDRO N ALEM      
+2455|LEANDRO N ALEM      
+2456|LEANDRO N ALEM      
+2457|LEANDRO N ALEM      
+2458|LEANDRO N ALEM      
+2459|LEANDRO N ALEM      
+2460|LEANDRO N ALEM      
+2461|LEANDRO N ALEM      
+2462|LEANDRO N ALEM      
+2463|LEANDRO N ALEM      
+2464|LEANDRO N ALEM      
+2465|LEANDRO N ALEM      
+2466|LEANDRO N ALEM      
+2467|LEANDRO N ALEM      
+2468|LEANDRO N ALEM      
+2469|LEANDRO N ALEM      
+2470|LEANDRO N ALEM      
+2471|LEANRO N ALEM       
+2472|LEON                
+2473|LEON                
+2474|LEOPOLDO MELO       
+2475|LEZAMA              
+2476|LEZAMA              
+2477|LEZAMA              
+2478|LEZICA              
+2479|LEZICA              
+2480|LIBERTAD            
+2481|LIBERTAD            
+2482|LIBERTAD            
+2483|LIBERTAD            
+2484|LIBERTAD            
+2485|LIBERTAD            
+2486|LINCOLN             
+2487|LINCOLN             
+2488|LINCOLN             
+2489|LINCOLN             
+2490|LIZ                 
+2491|LIZTS               
+2492|LORENZINI           
+2493|LORENZINI           
+2494|LORENZINI           
+2495|LORENZINI           
+2496|LORENZINI           
+2497|LOS ALAMOS          
+2498|LOS ALAMOS          
+2499|LOS ARRIEROS        
+2500|LOS ARRIEROS        
+2501|LOS ARRIEROS        
+2502|LOS ARRIEROS        
+2503|LOS ARRIEROS        
+2504|LOS ARRIEROS        
+2505|LOS ARRIEROS        
+2506|LOS CRISANTEMOS     
+2507|LOS JACINTOS        
+2508|LOS JACINTOS        
+2509|LOS JACINTOS        
+2510|LOS LOTOS           
+2511|LOS PINOS           
+2512|LOURDES             
+2513|LOURDES             
+2514|LOURDES             
+2515|LOURDES             
+2516|LOURDES             
+2517|LOURDES             
+2518|LOURDES             
+2519|LOZA V.             
+2520|LUIS AGOTE          
+2521|LUIS AGOTE          
+2522|LUIS AGOTE          
+2523|LUIS AGOTE          
+2524|LUIS AGOTE B POMPEYA
+2525|LUIS MARIA DRAGO    
+2526|LUIS MARIA DRAGO    
+2527|LUIS MARIA DRAGO    
+2528|LUIS MARIA DRAGO    
+2529|LUIS VIALE          
+2530|M BOEDO             
+2531|M. DE UNAMUNO       
+2532|MACHADO             
+2533|MACHADO             
+2534|MACHADO             
+2535|MACIEL              
+2536|MADAME CURIE        
+2537|MADAME CURIE        
+2538|MADAME CURIE        
+2539|MADERO              
+2540|MADERO              
+2541|MADERO              
+2542|MADRID              
+2543|MADRID              
+2544|MADRID              
+2545|MADRID              
+2546|BARILOCHE           
+2547|MAGALLANES          
+2548|MAGNOLIAS           
+2549|MAHATMA GHANDI      
+2550|MAIPU               
+2551|MAIPU               
+2552|MAIPU               
+2553|MAIPU               
+2554|MALAVER Y HORNOS    
+2555|MALDONADO           
+2556|MALDONADO           
+2557|MALVINAS            
+2558|MANSO               
+2559|MANSO               
+2560|MANSO               
+2561|MANZO               
+2562|MAR CHIQUITA        
+2563|MAR DEL PLATA       
+2564|MARCOS SASTRE       
+2565|MARCOS SASTRE       
+2566|MARCOS SASTRE       
+2567|MARCOS SASTRE       
+2568|MARCOS SASTRE       
+2569|MARIANO ACOSTA      
+2570|MARIANO ACOSTA      
+2571|MARIANO ACOSTA      
+2572|MARIANO ACOSTA      
+2573|MARIANO MORENO      
+2574|MARIO BRAVO         
+2575|MARIO BRAVO         
+2576|MARIO BRAVO         
+2577|MARIO BRAVO         
+2578|MARIO BRAVO         
+2579|MARIO BRAVO         
+2580|MARIO BRAVO         
+2581|MARIO BRAVO         
+2582|MARIO BRAVO         
+2583|MARIO BRAVO         
+2584|MARIO BRAVO         
+2585|MARIO BRAVO         
+2586|MARTIN FIERRO       
+2587|MATANZA             
+2588|MATANZA             
+2589|MATANZA             
+2590|MATANZA             
+2591|MATANZA             
+2592|MATANZA             
+2593|MATANZA             
+2594|MATANZA             
+2595|MATHEU              
+2596|MATORRAS            
+2597|MATORRAS            
+2598|MATORRAS            
+2599|MATORRAS            
+2600|MATORRAS            
+2601|MAURE               
+2602|MAURE               
+2603|MAURE               
+2604|MAURE               
+2605|MAURE               
+2606|MAURE               
+2607|MAZA JUAN A.        
+2608|MAZA JUAN A.        
+2609|MEDANOS             
+2610|MEDANOS             
+2611|MEDANOS             
+2612|MEDRANO             
+2613|MEDRANO             
+2614|MEDRANO             
+2615|MELDENSHON Y DE LA C
+2616|MELIAN              
+2617|MELIAN              
+2618|MENDELSHON          
+2619|MENDELSON           
+2620|MENDELSON           
+2621|MENDELSON E/TOSCANIN
+2622|MENDELSON E/TOSCANIN
+2623|MENDOZA             
+2624|MENDOZA             
+2625|MENDOZA             
+2626|MENDOZA             
+2627|MENDOZA             
+2628|MENDOZA             
+2629|MENDOZA             
+2630|MERLO               
+2631|MERLO               
+2632|MERLO               
+2633|MERLO               
+2634|MERLO               
+2635|MERLO               
+2636|MERLO               
+2637|
+2638|MIGUEL ANGEL        
+2639|MIGUEL ANGEL        
+2640|MIGUEL ANGEL        
+2641|MIGUEL ANGEL        
+2642|MILLER              
+2643|MIRANDA             
+2644|MIRANDA             
+2645|MIRANDA             
+2646|MIRANDA             
+2647|MIRANDA             
+2648|MIRANDA             
+2649|MIRANDA             
+2650|MIRANDA             
+2651|MIRANDA             
+2652|MIRANDA             
+2653|MIRANDA             
+2654|MISIONES            
+2655|MONTALBO            
+2656|MONTALVO            
+2657|MONTALVO            
+2658|MONTALVO            
+2659|MONTALVO            
+2660|MONTALVO            
+2661|  MONTALVO          
+2662|MONTE DINERO        
+2663|MONTE VERDE         
+2664|MONTEAGUDO          
+2665|MONTEVERDE          
+2666|MONTEVERDE          
+2667|MORAGA              
+2668|MORAGA              
+2669|MORAGA              
+2670|MORELOS             
+2671|MORELOS             
+2672|MORENO              
+2673|MORENO              
+2674|MORRIS              
+2675|MORRIS              
+2676|MORSE               
+2677|MORSE               
+2678|MORSE               
+2679|MORSE               
+2680|MORSE               
+2681|MORSE               
+2682|MORSE               
+2683|MORSE               
+2684|MORSE               
+2685|MORSE               
+2686|MOSCONI             
+2687|MOSCONI             
+2688|MOSCONI             
+2689|MOSCONI             
+2690|MOSCONI             
+2691|MOSCONI             
+2692|MOSCONI             
+2693|MOSCONI             
+2694|MOSCONI             
+2695|MOSCONI             
+2696|MOSCONI             
+2697|MOSCONI             
+2698|MOSCONI             
+2699|MOZART              
+2700|MOZART              
+2701|MOZART              
+2702|MU#IZ               
+2703|MURRAY              
+2704|MURRAY              
+2705|MURRAY              
+2706|MURRAY              
+2707|NATALE              
+2708|NAVARRO             
+2709|NAVARRO             
+2710|NAVARRO             
+2711|NECOCHEA            
+2712|NECOCHEA            
+2713|NECOCHEA            
+2714|NICOLAS RODRIGUEZ PE
+2715|NOBEL               
+2716|O HIGGINS           
+2717|O'HIGGINS           
+2718|OLAYA               
+2719|OLAYA               
+2720|OLIDEN              
+2721|OLIDEN              
+2722|OLIDEN              
+2723|OLIVERA             
+2724|OLIVERA             
+2725|OLIVERA             
+2726|OLLEROS             
+2727|OLLEROS             
+2728|ONELLI              
+2729|ORAN                
+2730|ORTIZ CARLOS        
+2731|ORTIZ CARLOS        
+2732|ORTIZ CARLOS        
+2733|OSORIO              
+2734|OSORIO              
+2735|P. MORAGA           
+2736|PACHECO             
+2737|PADILLA             
+2738|PADILLA             
+2739|PADILLA             
+2740|PADILLA             
+2741|PAGOLA              
+2742|PAGOLA              
+2743|PAGOLA              
+2744|PAGOLA              
+2745|PAGOLA ESQ.PIZURNO  
+2746|PAGOLA---  BARRIO BE
+2747|PALMAR              
+2748|PALMAR              
+2749|PALMAR              
+2750|PALMAR              
+2751|PALMAR              
+2752|PALPA               
+2753|PALPA               
+2754|PALPA               
+2755|PAMPA               
+2756|PAMPA               
+2757|PAMPA               
+2758|PANAMA              
+2759|PARAGUAY            
+2760|PARIS               
+2761|PARIS  (PONTEVEDRA) 
+2762|PASAJE VERNET       
+2763|PASCO               
+2764|PASO DE LOS PATOS   
+2765|PASO DE LOS PATOS   
+2766|PASO DE LOS PATOS   
+2767|PASO DE LOS PATOS   
+2768|PASO DE LOS PATOS   
+2769|PASO DE LOS PATOS   
+2770|PASO DE LOS PATOS   
+2771|PASO DE LOS PATOS   
+2772|PASO DE LOS PATOS   
+2773|PASO DE LOS PATOS   
+2774|PASO DE LOS PATOS   
+2775|PASO DE LOS PATOS   
+2776|PASTEUR             
+2777|PASTEUR             
+2778|PATAGONES           
+2779|PATAGONES           
+2780|PATAGONES           
+2781|PATAGONES           
+2782|PATAGONES           
+2783|PATRICIAS ARGENTINA 
+2784|PATRICIAS ARGENTINAS
+2785|PATRICIAS ARGENTINAS
+2786|PATRICIAS ARGENTINAS
+2787|PATRICIAS ARGENTINAS
+2788|PATRICIAS ARGENTINAS
+2789|PATRICIAS ARGENTINAS
+2790|PAUL GROUSSAC       
+2791|PAVON               
+2792|PAVON               
+2793|PAVON               
+2794|PAVON               
+2795|PAYRO               
+2796|PAYRO               
+2797|PAYRO               
+2798|PAYRO               
+2799|PAYRO               
+2800|PAYRO               
+2801|PAYRO               
+2802|PEDERNERA           
+2803|PEDRO BENOIT        
+2804|PEDRO BENOIT        
+2805|PEDRO BENOIT        
+2806|PEDRO BENOIT        
+2807|PEDRO BENOIT        
+2808|PEDRO BENOIT        
+2809|PEDRO BENOIT        
+2810|PEDRO BENOIT        
+2811|PEDRO BENOIT        
+2812|PEDRO BENOIT        
+2813|PEDRO BENOIT        
+2814|PEDRO BENOIT        
+2815|PEDRO BENOIT        
+2816|PEDRO BENOIT        
+2817|PEDRO BENOIT        
+2818|PEDRO ECHAGUE       
+2819|PEDRO LACOSTE       
+2820|PEDRO LACOSTE       
+2821|PEDRO LACOSTE       
+2822|PEDRO LACOSTE       
+2823|PEDRO LACOSTE       
+2824|PEDRO LACOSTE       
+2825|PERGAMINO           
+2826|PEDRO N FLORES      
+2827|PEDRO N FLORES      
+2828|PEDRO N FLORES      
+2829|PEDRO NOLASCO FLORES
+2830|PEDRO NOLASCO FLORES
+2831|PEDRO NOLOSCO FLORES
+2832|PEDRO SANTOS MOLINA 
+2833|PERDIEL             
+2834|PERDRIEL            
+2835|PERDRIEL            
+2836|PERDRIEL            
+2837|PERDRIEL            
+2838|PERDRIEL            
+2839|PERELLI             
+2840|PERGAMINO           
+2841|PERGAMINO           
+2842|PERICON             
+2843|PERICON             
+2844|PERU                
+2845|PERU                
+2846|PERU                
+2847|PEYRET              
+2848|  PIEDRA BUENA      
+2849|PIEDRA BUENA        
+2850|PIEDRA BUENA        
+2851|PIEDRABUENA         
+2852|PIEDRABUENA         
+2853|PIEDRABUENA         
+2854|PIEDRABUENA         
+2855|PIEDRABUENA         
+2856|PIEDRAS             
+2857|PIEDRAS             
+2858|PIEDRAS             
+2859|PIEDRAS             
+2860|PIEDRAS             
+2861|PINTO               
+2862|PINTO               
+2863|PIROVANO            
+2864|PIROVANO            
+2865|PIROVANO            
+2866|PITAGORAS           
+2867|PITAGORAS           
+2868|PITAGORAS           
+2869|PITAGORAS           
+2870|PITAGORAS           
+2871|PIZARRO             
+2872|PIZARRO             
+2873|PIZARRO             
+2874|PIZARRO             
+2875|PIZARRO             
+2876|PIZARRO             
+2877|PIZARRO             
+2878|PIZARRO             
+2879|PIZZURNO            
+2880|PIZZURNO            
+2881|PIZZURNO            
+2882|PJE DE LA CROIX     
+2883|PODESTA MZ 1CASA 18 
+2884|POMPEYA             
+2885|POSADAS             
+2886|POSADAS             
+2887|POSADAS             
+2888|POSTA DE YATASTO    
+2889|POSTA DE YATASTO    
+2890|POSTA DE YATASTO    
+2891|POSTA DE YATASTO    
+2892|POSTA DE YATASTO    
+2893|POSTA DE YATASTO    
+2894|POSTA DE YATASTO    
+2895|POSTA DE YATASTO    
+2896|POSTA DE YATASTO    
+2897|POSTA DE YATASTO    
+2898|POSTA DE YATASTO    
+2899|POSTA DE YATASTO    
+2900|POSTA DE YATASTO    
+2901|POSTA DE YATASTO    
+2902|POSTA DEL YATASTO   
+2903|PRES. HECTOR CAMPORA
+2904|PRES. HECTOR CAMPORA
+2905|PRES. HECTOR CAMPORA
+2906|PRES. HECTOR CAMPORA
+2907|PRIMERA JUNTA       
+2908|PRINGLES            
+2909|PRINGLES            
+2910|PRINGLES            
+2911|PRINGLES            
+2912|PRINGLES            
+2913|PRINGLES            
+2914|PRINGLES            
+2915|PTE. CAMPORA        
+2916|PTE. H. CAMPORA     
+2917|PUCHEU              
+2918|PUCHEU              
+2919|PUEYRREDON          
+2920|PUEYRREDON          
+2921|PUEYRREDON          
+2922|Q. ACOSTA           
+2923|QUEQUEN             
+2924|QUEQUEN             
+2925|QUEQUEN             
+2926|QUERANDIES          
+2927|QUESADA             
+2928|QUINTANA            
+2929|QUINTANA            
+2930|QUINTANA            
+2931|QUIRNO COSTA        
+2932|QUIRNO COSTA        
+2933|R BALBIN            
+2934|R DE ESCALADA       
+2935|R. BALBIN           
+2936|R. BALBIN           
+2937|R. MEJIA Y FRENCH Y 
+2938|RAIMONDIA           
+2939|RAIMONDIA           
+2940|RAMALLO             
+2941|RAMALLO             
+2942|RAMALLO             
+2943|RAMALLO             
+2944|RAMALLO             
+2945|RAMIREZ             
+2946|RAMIREZ             
+2947|RAMIREZ             
+2948|RAMIREZ             
+2949|RAMON LISTA         
+2950|RAWSON              
+2951|RAWSON              
+2952|RAWSON              
+2953|RAWSON              
+2954|RAWSON              
+2955|RAWSON              
+2956|RAWSON              
+2957|RAWSON              
+2958|RAWSON              
+2959|RAWSON              
+2960|RAWSON              
+2961|RAWSON              
+2962|RAWSON              
+2963|RAWSON              
+2964|RAWSON              
+2965|RAWSON              
+2966|RAWSON              
+2967|RAWSON              
+2968|RAWSON              
+2969|RAWSON              
+2970|RAWSON              
+2971|RAWSON              
+2972|RAWSON              
+2973|RAWSON              
+2974|RAWSON              
+2975|RAWSON              
+2976|RAWSON              
+2977|RAWSON              
+2978|RECONQUISTA         
+2979|RECONQUISTA         
+2980|RECONQUISTA         
+2981|RECONQUISTA         
+2982|RECONQUISTA         
+2983|RECONQUISTA         
+2984|RECONQUISTA         
+2985|RECONQUISTA         
+2986|RECONQUISTA         
+2987|REMEDIOS DE ESCALADA
+2988|RENAN               
+2989|RENAN               
+2990|RENAN               
+2991|RICARDO BALBIN      
+2992|RICARDO BALBIN      
+2993|RICARDO BALBIN      
+2994|RICARDO BALBIN      
+2995|RICARDO BALBIN      
+2996|RICARDO BALBIN      
+2997|RICARDO GUIRALDES   
+2998|RICCIO              
+2999|RIOBAMBA            
+3000|RIOBAMBA            
+3001|RIOBAMBA            
+3002|RIOBAMBA            
+3003|RIOBAMBA            
+3004|RIOBAMBA            
+3005|RIOBAMBA            
+3006|RIOJA               
+3007|RIOJA               
+3008|RIOJA               
+3009|RIOJA               
+3010|RIOJA               
+3011|RIOJA               
+3012|RIVADAVIA           
+3013|RIVADAVIA           
+3014|RIVAROLA            
+3015|RIVERA INDARTE ( B  
+3016|RODIN               
+3017|RODIN               
+3018|RODOLFO SENET       
+3019|RODRIGUEZ ANGEL     
+3020|RODRIGUEZ FLORES    
+3021|RODRIGUEZ FLORES    
+3022|RODRIGUEZ FLORES    
+3023|RODRIGUEZ FLORES    
+3024|RODRIGUEZ MIGUEL A. 
+3025|RODRIGUEZ PE#A      
+3026|ROJAS RICARDO       
+3027|ROJAS RICARDO       
+3028|ROQUE BURGOS        
+3029|ROSARIO             
+3030|ROSARIO             
+3031|ROSARIO             
+3032|ROSAS               
+3033|ROSSINI             
+3034|ROSSINI             
+3035|ROSSINI             
+3036|ROSSINI             
+3037|ROSSINI             
+3038|RUTA 200 KILOMETRO  
+3039|RUTA 200 KILOMETRO  
+3040|SAAVEDRA            
+3041|SAAVEDRA            
+3042|SAAVEDRA            
+3043|SAAVEDRA            
+3044|SAAVEDRA            
+3045|SAAVEDRA            
+3046|SAAVEDRA            
+3047|SAAVEDRA LAMAS      
+3048|SABATTINI AMADEO    
+3049|SADI CARNOT         
+3050|SAENZ PE#A          
+3051|SAENZ PE#A          
+3052|SAENZ PE#A          
+3053|SAENZ PE#A          
+3054|SAENZ PE#A          
+3055|SALA                
+3056|SALADILLO           
+3057|SALADILLO           
+3058|SALADILLO           
+3059|SALADILLO           
+3060|SALADILLO           
+3061|SALADILLO           
+3062|SALADILLO           
+3063|SALAS               
+3064|SALAS               
+3065|SALAS               
+3066|SALAS               
+3067|SALAS               
+3068|SALGARI             
+3069|SALGARI             
+3070|SALGARI             
+3071|SALGUERO            
+3072|SALGUERO            
+3073|SALGUERO            
+3074|SALGUERO            
+3075|SALGUERO            
+3076|SALGUERO            
+3077|SALOM               
+3078|SALOM               
+3079|SALON Y AZARA       
+3080|SALTA               
+3081|SALTA               
+3082|SALTA               
+3083|SALTA               
+3084|SALTA               
+3085|SALTA               
+3086|SALTA               
+3087|SALTA               
+3088|SALTA               
+3089|SALTA               
+3090|SALTA               
+3091|SALVADOR LAGOMARSINO
+3092|SAN ANTONIO         
+3093|SAN ANTONIO         
+3094|SAN ANTONIO         
+3095|SAN ANTONIO         
+3096|SAN ANTONIO         
+3097|SAN ANTONIO         
+3098|SAN ANTONIO         
+3099|SAN ANTONIO         
+3100|SAN ANTONIO         
+3101|SAN BENITO          
+3102|SAN ISIDRO          
+3103|SAN ISIDRO          
+3104|SAN ISIDRO          
+3105|SAN ISIDRO          
+3106|SAN ISIDRO          
+3107|SAN ISIDRO          
+3108|SAN ISIDRO          
+3109|SAN JOSE            
+3110|SAN JOSE            
+3111|SAN JUAN            
+3112|SAN JUAN            
+3113|SAN JUAN            
+3114|SAN JUAN            
+3115|SAN JUAN            
+3116|SAN LORENZO         
+3117|SAN LORENZO         
+3118|SAN LORENZO         
+3119|SAN LORENZO         
+3120|SAN LORENZO         
+3121|SAN LORENZO         
+3122|SAN LORENZO         
+3123|SAN MARTIN          
+3124|SAN MARTIN          
+3125|SAN MARTIN          
+3126|SAN MARTIN          
+3127|SAN MARTIN          
+3128|SAN MARTIN          
+3129|SAN MARTIN          
+3130|SAN MARTIN          
+3131|SAN MARTIN          
+3132|SAN MARTIN          
+3133|SAN MARTIN          
+3134|SAN MARTIN          
+3135|SAN MARTIN          
+3136|SAN MARTIN          
+3137|SANTA FE            
+3138|SANTA FE            
+3139|SANTA FE            
+3140|SANTA FE            
+3141|SANTA FE            
+3142|SANTA FE            
+3143|SANTA FE            
+3144|SANTA FE            
+3145|SANTA FE            
+3146|SANTA FE            
+3147|SANTA FE            
+3148|SANTIAGO DEL ESTERO 
+3149|SANTIAGO DEL ESTERO 
+3150|SANTIAGO DEL ESTERO 
+3151|SANTIAGO DEL ESTERO 
+3152|SANTIAGO DEL ESTERO 
+3153|SANTIAGO DEL ESTERO 
+3154|SANTIAGO DEL ESTERO 
+3155|SANTIAGO DEL ESTERO 
+3156|SANTIAGO DEL ESTERO 
+3157|SANTIAGO DEL ESTERO 
+3158|SANTO DE LA ESPADA  
+3159|SANTO DE LA ESPADA  
+3160|SANTO DE LA ESPADA  
+3161|SAPALERI Y PINCIROLI
+3162|SARANDI             
+3163|SARAVIA             
+3164|SARMIENTO           
+3165|SARMIENTO           
+3166|SARMIENTO           
+3167|SARMIENTO           
+3168|SARMIENTO           
+3169|SARMIENTO           
+3170|SCALABRINI ORTIZ R. 
+3171|SCALABRINI ORTIZ R. 
+3172|SCHERBERT           
+3173|SCHIAFFINO          
+3174|SCHIAFFINO          
+3175|SCHIAFFINO          
+3176|SCHIAFFINO          
+3177|SCHIAFFINO          
+3178|SCHIAFFINO Y TRAFUL 
+3179|SCHUBERT            
+3180|SCHUBERT            
+3181|SCHWEITZER ALBERT   
+3182|SEBASTIAN EL CANO   
+3183|SEBASTIAN EL CANO   
+3184|SEBASTIAN PIZARRO   
+3185|SEGUNDO SOMBRA      
+3186|SEGUROLA            
+3187|SENET               
+3188|SENET               
+3189|SENILLOSA           
+3190|SEQUEIRA            
+3191|SERRANO             
+3192|SOLANET             
+3193|SOLIS               
+3194|SOLIS               
+3195|SOLIS               
+3196|SOLIS               
+3197|SOLIS               
+3198|SOLIS               
+3199|STRAUSS             
+3200|STRAUSS             
+3201|SUAREZ              
+3202|SUCRE               
+3203|SUCRE               
+3204|SUCRE               
+3205|SUCRE               
+3206|SUECIA              
+3207|SUECIA              
+3208|SUECIA              
+3209|SUECIA              
+3210|SUECIA              
+3211|SUIPACHA            
+3212|SUIPACHA            
+3213|SUIPACHA            
+3214|SULLIVAN ALEJANDRO  
+3215|SULLIVAN ALEJANDRO  
+3216|SULLIVAN ALEJANDRO  
+3217|SULLIVAN ALEJANDRO  
+3218|SULLIVAN ALEJANDRO  
+3219|SULLIVAN ALEJANDRO  
+3220|SULLIVAN ALEJANDRO  
+3221|SULLIVAN ALEJANDRO  
+3222|SULLIVAN ALEJANDRO  
+3223|SULLIVAN ALEJANDRO  
+3224|SULLIVAN ALEJANDRO  
+3225|SULLIVAN ALEJANDRO  
+3226|SUPPARO             
+3227|TABOADA             
+3228|TABOADA             
+3229|TABOADA             
+3230|TABOADA             
+3231|TACUARI             
+3232|TACUARI             
+3233|TACUARI             
+3234|TACUARI             
+3235|TACUARI             
+3236|TALA                
+3237|TALA                
+3238|TALCAHUANO          
+3239|TALCAHUANO          
+3240|TALCAHUANO          
+3241|TALCAHUANO          
+3242|TALCAHUANO          
+3243|TALCAHUANO          
+3244|TALCAHUANO          
+3245|TALCAHUANO          
+3246|TALCAHUANO Y BARILOC
+3247|TAPALQUE            
+3248|TARIJA              
+3249|TARIJA              
+3250|TARTAGAL            
+3251|TARTAGAL            
+3252|TARTAGAL            
+3253|TARTAGAL            
+3254|TARTAGAL            
+3255|TARTAGAL            
+3256|TARTAGAL            
+3257|TARTAGAL            
+3258|TELLIER             
+3259|TELLIER             
+3260|TELLIER             
+3261|TELLIER             
+3262|TELLIER             
+3263|TELLIER             
+3264|TELLIER             
+3265|TELLIER             
+3266|TELLIER             
+3267|TELLIER             
+3268|TELLIER             
+3269|TELLIER             
+3270|TELLIER             
+3271|TELLIER             
+3272|TELLIER             
+3273|TELLIER             
+3274|TELLIER             
+3275|TERRERO             
+3276|TERRERO             
+3277|TERRY               
+3278|TERRY               
+3279|TERRY               
+3280|TERRY               
+3281|TERRY               
+3282|TERRY               
+3283|TERRY               
+3284|TERRY               
+3285|TERRY               
+3286|TERRY               
+3287|TOAY                
+3288|TOAY                
+3289|TORRENT             
+3290|TORRENT             
+3291|TORRENT             
+3292|TOSCANINI           
+3293|TOSCANINI           
+3294|TOSCANINI           
+3295|TOSCANINI           
+3296|TOSCANINI           
+3297|TOSCANINI           
+3298|TOSCANINI           
+3299|TOSCANINI           
+3300|TRAFUL              
+3301|TRAFUL              
+3302|TRAFUL              
+3303|TRAFUL              
+3304|  TRELEW            
+3305|TRELEW              
+3306|TRELEW Y BOYACA     
+3307|TRES ARROYOS        
+3308|TRES ARROYOS        
+3309|TRES ARROYOS        
+3310|TRES ARROYOS        
+3311|TRES ARROYOS        
+3312|TRES ARROYOS        
+3313|TUCUMAN             
+3314|TUCUMAN             
+3315|TUCUMAN             
+3316|TUCUMAN             
+3317|TUCUMAN             
+3318|TUNEZ               
+3319|TUNEZ               
+3320|TUNUYAN             
+3321|TUNUYAN             
+3322|TUNUYAN             
+3323|TUPAC AMARU         
+3324|TUPAC AMARU         
+3325|UGARTE              
+3326|UGARTECHI           
+3327|UNAMUNO             
+3328|UNAMUNO             
+3329|UNAMUNO             
+3330|URDANETA            
+3331|URDANETA            
+3332|URQUIZA             
+3333|URUGUAY Y EUROPA    
+3334|VALDERRAMA          
+3335|VALENZUELA          
+3336|VENECIA             
+3337|VERDI               
+3338|VERDI               
+3339|VERNET              
+3340|VICTOR HUGO         
+3341|VICTORIA            
+3342|VICTORIA            
+3343|VICTORIANO AGUILAR  
+3344|VICTORIANO LOZA     
+3345|VICTORIANO LOZA     
+3346|VICTORIANO LOZA     
+3347|VICTORIANO LOZA     
+3348|VICTORIANO LOZA     
+3349|VIDT                
+3350|VIDT 8955   MARIANO 
+3351|VIENA               
+3352|VIENA               
+3353|VIENA               
+3354|VIENA               
+3355|VIENA               
+3356|VIEYTES             
+3357|VIGIL               
+3358|VILLAFA#E           
+3359|VILLAFA#E           
+3360|VILLAFA#E           
+3361|VILLAFA#E           
+3362|VILLAFA#E           
+3363|VIOT                
+3364|VIRASORO            
+3365|VIRREY DEL PINO     
+3366|VIRREY DEL PINO     
+3367|W MORRIS            
+3368|WARNES              
+3369|WILDE B  ARCO IRIS  
+3370|WILLIAM MORRIS      
+3371|WILLIAN MORRIS      
+3372|YAPEYU              
+3373|YATASTO             
+3374|YATAY               
+3375|YEGROS              
+3376|ZABALA              
+3377|ZABALETA            
+3378|ZAPALA              
+3379|ZAPALA              
+3380|ZAPALA              
+3381|ZAPALA              
+3382|ZAPALA              
+3383|ZARATE              
+3384|ZARRAGA             
+3385|ZARRAGA             
+3386|ZARRAGA             
+3387|ZELADA              
+3388|ZINNY               
+3389|ZUVIRIA             
+3390|ZUVIRIA             
+3391|salgari barrio los v
+3392|2 CASA 43 MZA 4     
+3393|20 DE JUNIO         
+3394|24 DE NOVIEMBRE     
+3395|ACHALA              
+3396|AGUARIGUAY          
+3397|ALBARRACIN          
+3398|ALBARRACIN          
+3399|ALBARRACIN          
+3400|ALVAREZ JONTE       
+3401|ALVAREZ JONTE       
+3402|ALVAREZ JONTE       
+3403|ALVAREZ JONTE       
+3404|ALVAREZ JONTE       
+3405|ALVAREZ JONTE       
+3406|ARENALES            
+3407|ARISTOTELES         
+3408|ARRECIFES           
+3409|ARTIGAS             
+3410|ASUNCION            
+3411|AV CONATITUYENTES   
+3412|AV. FERRARI         
+3413|AYOLA               
+3414|BAIRES CARLOS       
+3415|BECQUER             
+3416|BEGO�A            
+3417|BENITO LYNCH        
+3418|BENITO LYNCH        
+3419|BENITO LYNCH        
+3420|BEQUER              
+3421|BIELLI ADALCISO     
+3422|BOERO               
+3423|BUSTAMANTE          
+3424|BUSTILLO            
+3425|BUSTILLO            
+3426|BUSTILLO            
+3427|CARCABALLO          
+3428|CARLOS GARDEL       
+3429|CASAUX              
+3430|CASCALLARES MZ.8 CAS
+3431|CASSAUX             
+3432|CASSAUX             
+3433|CENTENO             
+3434|CERRITO             
+3435|CERRITO             
+3436|CERRITO Y MIRAMAR   
+3437|CNEL BONORINO       
+3438|COBO                
+3439|COBO                
+3440|COBO                
+3441|COBO                
+3442|COBO                
+3443|COBO Y REMBRANDT    
+3444|COLOMBRES           
+3445|COLOMBRES           
+3446|COLOMBRES           
+3447|COLOMBRES           
+3448|COLOMBRES           
+3449|COLOMBRES           
+3450|CONDARCO            
+3451|CONDARCO            
+3452|CONSTITUYENTES      
+3453|CONSTITUYENTES      
+3454|CORONEL SALVADORES  
+3455|CORONEL SALVADORES  
+3456|DALTON              
+3457|DE LA RIVERA        
+3458|DE MARIA            
+3459|DE ROSAS ENRIQUE    
+3460|DEMOSTENES          
+3461|DIAMANTE            
+3462|DIAMANTE            
+3463|DIAMANTE            
+3464|DIAMANTE            
+3465|DIAMANTE            
+3466|DIAMANTE            
+3467|DINAMARCA           
+3468|DISCEPOLO           
+3469|DISCEPOLOS          
+3470|E MAYOR DE GOBIERNO 
+3471|ECHAGUE PEDRO       
+3472|ECHAGUE PEDRO       
+3473|EDIFICIO 7          
+3474|EMPEDRADO           
+3475|EMPEDRADO           
+3476|EMPEDRADO Y COBO    
+3477|ENCIMA              
+3478|ENCIMA              
+3479|ENCINA              
+3480|ENCINA              
+3481|ENCINA              
+3482|ENCINA              
+3483|ENCINA              
+3484|ENCINA              
+3485|ENCINA Y FRESCO     
+3486|  ENRIQUE DE ROSAS Y
+3487|ENSENADA            
+3488|ENSENADA            
+3489|ENSENADA            
+3490|ENSENADA            
+3491|ESPA�A Y SARMIENTO
+3492|F.ALCORTA           
+3493|FINLAY              
+3494|FLORENCIO SANCHEZ   
+3495|FRAY MOCHO          
+3496|G. DEL RIO Y ESQUINA
+3497|GABRIELA MISTRAL    
+3498|GABRIELA MISTRAL    
+3499|GALLARDO ANGEL      
+3500|GALLARDO ANGEL      
+3501|GALLARDO ANGEL      
+3502|GARCIA DEL RIO      
+3503|GARCIA DEL RIO      
+3504|GARCIA DEL RIO      
+3505|GARCIA DEL RIO      
+3506|GARCIA DEL RIO      
+3507|GARCIA VELLOSA      
+3508|GARCIA VELLOSO      
+3509|GAVILAN             
+3510|GENOVA              
+3511|GENOVA              
+3512|GOROSTIAGA          
+3513|GOROSTIAGA          
+3514|GRITO DE ASENCIO    
+3515|GROUSSAC            
+3516|GUALEGUAY           
+3517|GUAMINI             
+3518|HEREDIA             
+3519|HEREDIA             
+3520|HEREDIA             
+3521|HEREDIA             
+3522|HEREDIA             
+3523|HEREDIA             
+3524|HEREDIA             
+3525|HEREDIA             
+3526|HEREDIA             
+3527|HEREDIA             
+3528|HEREDIA             
+3529|HEREDIA             
+3530|HEREDIA             
+3531|HEREDIA Y VARELA    
+3532|HIPOCRATES          
+3533|HOMERO              
+3534|HOMERO              
+3535|HOMERO              
+3536|HOMERO              
+3537|HOMERO              
+3538|HUGO DEL CARRIL     
+3539|HUGO DEL CARRIL     
+3540|HUGO DEL CARRIL     
+3541|HUGO DEL CARRIL     
+3542|HUGO DEL CARRIL     
+3543|IBERA               
+3544|IBERA               
+3545|IRALA               
+3546|IRALA               
+3547|IRALA               
+3548|ISLAS ORCADAS       
+3549|J E POINCARE        
+3550|J.NEWBERY           
+3551|J.NEWBERY           
+3552|J.NEWBERY           
+3553|J.NEWBERY           
+3554|J.NEWBERY           
+3555|J.NEWBERY           
+3556|J.NEWBERY           
+3557|JONTE               
+3558|JONTE               
+3559|JOSE INGENIEROS     
+3560|JOSE INGENIEROS     
+3561|JOSE SALDIAS        
+3562|JUAN POSSE          
+3563|JUAN POSSE          
+3564|JUAN POSSE          
+3565|JUAN POSSE          
+3566|JUAN POSSE          
+3567|JUAN POSSE          
+3568|JUAN POSSE          
+3569|JURAMENTO           
+3570|JURAMENTO           
+3571|JURAMENTO           
+3572|JURAMENTO           
+3573|JURAMENTO           
+3574|LA NI#A             
+3575|LA NI#A             
+3576|LA PINTA            
+3577|LA SANTA MARIA      
+3578|LACARRA             
+3579|LACARRA             
+3580|LACARRA             
+3581|LACARRA             
+3582|LAFAYETTE           
+3583|LARRAZABAL          
+3584|LARRAZABAL          
+3585|LAS ANEMONAS        
+3586|LAS ANEMONAS        
+3587|LAS AZUCENAS        
+3588|LAS AZUCENAS        
+3589|LAS AZUCENAS        
+3590|LAS AZUCENAS        
+3591|LAS AZUCENAS        
+3592|LAS BEGO#AS         
+3593|LAS BEGONIAS        
+3594|LAS BEGONIAS        
+3595|LAS CAMPANILLAS     
+3596|LAS CAMPANILLAS     
+3597|LAS CAMPANILLAS     
+3598|LAS CAMPANILLAS E/RU
+3599|LAS DALIAS          
+3600|LAS DALIAS          
+3601|LAS DALIAS          
+3602|LAS HORTENCIAS      
+3603|LAS LILAS           
+3604|LAS MAGNOLIAS       
+3605|LAS MAGNOLIAS       
+3606|LAS MAGNOLIAS       
+3607|LAS MARGARITAS      
+3608|LAS MARGARITAS      
+3609|LAS MARIMONIAS      
+3610|LAS MARIMONIAS      
+3611|LAS MARIMONIAS      
+3612|LAS MARIMONIAS      
+3613|LAS MIMOSAS         
+3614|LAS MIMOSAS         
+3615|LAS MIMOSAS         
+3616|LAS MIMOSAS Y JURAME
+3617|LAS ORQUIDEAS       
+3618|LAS ORQUIDEAS       
+3619|LAS ORQUIDEAS       
+3620|LAS RETAMAS         
+3621|LAS RETAMAS         
+3622|LAS VIOLETAS        
+3623|LAS VIOLETAS        
+3624|LAS VIOLETAS        
+3625|LOPEZ DE VEGA       
+3626|LOS ALELIES         
+3627|LOS ALELIES         
+3628|LOS CRISANTEMOS     
+3629|LOS CRISANTEMOS     
+3630|LOS CRISANTEMOS     
+3631|LOS GERANIOS        
+3632|LOS GERANIOS        
+3633|LOS GERANIOS        
+3634|LOS JACINTOS        
+3635|LOS JAZMINES        
+3636|LOS JAZMINES Y RUTA 
+3637|LOS LOTOS           
+3638|LOS PENSAMIENTOS    
+3639|LOYOLA              
+3640|LOYOLA Y MATIN GARCI
+3641|LUIS VIALE          
+3642|LUIS VIALE          
+3643|LURO                
+3644|MANUEL A FRESCO     
+3645|MAR DEL PLATA       
+3646|MAR DEL PLATA       
+3647|MARTIN GARCIA       
+3648|MELINCUE            
+3649|MERCEDES            
+3650|MIRAMAR             
+3651|MIRAMAR             
+3652|MIRAMAR             
+3653|MURGUIONDO          
+3654|MZA 7 CASA 122      
+3655|O CONNORS           
+3656|O'CONNOR            
+3657|PABLO PODESTA MZ 1 C
+3658|PAGANO              
+3659|PARRAVICINI         
+3660|PERELLI             
+3661|PILLADO             
+3662|PILLADO             
+3663|PILLADO             
+3664|PIRANDELLO          
+3665|POINCARE            
+3666|QUESADA             
+3667|QUESADA             
+3668|QUESADA             
+3669|QUESADA             
+3670|QUIROGA CAMILA      
+3671|QUIROGA CAMILA      
+3672|RANDEAU             
+3673|RATTI               
+3674|RAUCH               
+3675|REILLY              
+3676|REILLY              
+3677|REMBRANDT           
+3678|REMBRANDT           
+3679|RIGANELLI           
+3680|RIGLOS              
+3681|RIGLOS              
+3682|RIGLOS              
+3683|RONDEAU             
+3684|ROSALES             
+3685|ROSALES             
+3686|ROSALES             
+3687|ROSALES             
+3688|ROSALES             
+3689|ROSALES             
+3690|ROSALES             
+3691|ROSALES             
+3692|SALAS               
+3693|SALDIAS             
+3694|SAN FERNANDO        
+3695|SAN FERNANDO        
+3696|SANCHEZ             
+3697|SANTA MARIA         
+3698|SANTA MARIA         
+3699|SANTA MARIA         
+3700|SANTANDER           
+3701|SANTANDER           
+3702|SANTANDER           
+3703|SANTIAGO ALBARRACIN 
+3704|SENECA              
+3705|SOPENA              
+3706|SUPERI              
+3707|SUPERI              
+3708|SUPERI              
+3709|SUPERI              
+3710|SUPERI              
+3711|SUPERI              
+3712|TIRADENTES          
+3713|TRELLES             
+3714|TRELLES             
+3715|TRES SARGENTOS      
+3716|TRES SARGENTOS      
+3717|TRIANA              
+3718|UGARTECHE           
+3719|URIARTE             
+3720|URIARTE             
+3721|URIARTE             
+3722|URQUIZA             
+3723|URQUIZA             
+3724|VACCAREZZA          
+3725|VARELA Y LA PLATA   
+3726|VIDT                
+3727|VIDT                
+3728|VIDT                
+3729|VIDT                
+3730|VIDT                
+3731|VIDT                
+3732|VIDT                
+3733|VIDT                
+3734|VIDT                
+3735|VIDT                
+3736|VIDT   EDIF22       
+3737|VIEDMA              
+3738|VIEDMA Y CANADA     
+3739|VIETMA Y ENCINA     
+3740|VIRGEN DE COPACABANA
+3741|VIRGEN DE COPACABANA
+3742|VIRGEN DE COPACABANA
+3743|VIRGILIO            
+3744|VUSETICH MNZA9 CASA 
+3745|WASHINGTON          
+3746|WASHINGTON          
+3747|WASHINGTON          
+3748|WASHINGTON          
+3749|ABERASTURI          
+3750|ABERASTURI          
+3751|ABERASTURI          
+3752|ALBARI#OS           
+3753|ALVARADO            
+3754|AMENABAR            
+3755|AMENABAR            
+3756|ANCHORENA           
+3757|ANCHORENA           
+3758|ARCE MANUEL         
+3759|ARGENTINA           
+3760|ARGENTINA           
+3761|ARREDONDO           
+3762|ARREDONDO           
+3763|AVDA. PATRICIOS     
+3764|AZUL                
+3765|AZUL                
+3766|AZURDUY             
+3767|AZURDUY             
+3768|BACLE               
+3769|BACLE               
+3770|BALLADARES          
+3771|BALLADARES          
+3772|BALLADARES          
+3773|BELEN               
+3774|BELLA VISTA         
+3775|BELTRAND RUSSELL    
+3776|BELTRAND RUSSELL    
+3777|BOSTON              
+3778|CADIZ               
+3779|CADIZ               
+3780|CALFUCURA (B)       
+3781|CARCANO             
+3782|CARCANO             
+3783|CARRANZA            
+3784|CARRANZA            
+3785|CARRASCO            
+3786|CARRASCO            
+3787|CASTELLI            
+3788|CAXARAVILLE         
+3789|CAXARAVILLE         
+3790|COLASTINE           
+3791|COLON               
+3792|CONESA              
+3793|CONESA              
+3794|VIEYTES             
+3795|CRESPO              
+3796|DE BERLIN           
+3797|DE BERLIN           
+3798|DE COLON            
+3799|DE CUBA             
+3800|DE CUBA             
+3801|DE LA AMISTAD       
+3802|DE LA AMISTAD       
+3803|DE LA AMISTAD       
+3804|DE LA AMISTAD       
+3805|DE LA UNION         
+3806|DE LA UNION         
+3807|DE LA VIRGEN        
+3808|DE LA VIRGEN        
+3809|DE LA VIRGEN        
+3810|DE LA VIRGEN        
+3811|DE LOS ESPA#OLES    
+3812|DE LOS ESPA#OLES    
+3813|DE LOS ESPA#OLES    
+3814|DE LOS ESPA#OLES    
+3815|DE LOS ESPA#OLES    
+3816|DE LOS ESPA#OLES    
+3817|DE LOS FRANCESES    
+3818|DE LOS FRANCESES    
+3819|DE LOS ITALIANOS    
+3820|DE ROMA             
+3821|DE ROMA             
+3822|DEL PORVENIR        
+3823|DEL PORVENIR        
+3824|DEL PORVENIR        
+3825|DOMINGO SICA        
+3826|ECHECONEA           
+3827|ECHECONEA           
+3828|EL HORNERO          
+3829|EL HORNERO          
+3830|ESNAOLA             
+3831|ESPEJO              
+3832|EVA PERON           
+3833|GIBRALTAR           
+3834|GIBRALTAR           
+3835|GIBRALTAR           
+3836|GIBRALTAR           
+3837|GIBRALTAR           
+3838|GIBRALTAR           
+3839|GIBRALTAR           
+3840|GIBRALTAR           
+3841|GIBRALTAR           
+3842|ISABEL DE BARNES    
+3843|ISABEL DE BARNES    
+3844|ISABEL DE BARNES    
+3845|ISABEL DE BARNES    
+3846|ISABEL DE BARNES    
+3847|JAPON               
+3848|JUAN XXIII          
+3849|JUAN XXIII          
+3850|JUANA AZURDUY       
+3851|JUAREZ CELMAN       
+3852|JUAREZ CELMAN       
+3853|JUAREZ CELMAN       
+3854|JUAREZ CELMAN       
+3855|LA CAMBACITA        
+3856|MALDONADO           
+3857|MANUEL VICENTE MAZA 
+3858|MARCELO T DE ALVEAR 
+3859|MARCELO T DE ALVEAR 
+3860|MARCELO T DE ALVEAR 
+3861|MARCELO T DE ALVEAR 
+3862|MARCELO T DE ALVEAR 
+3863|MARCELO T DE ALVEAR 
+3864|MARTINEZ DE NU#EZ   
+3865|MAZZA MANUEL VICENTE
+3866|MAZZA MANUEL VICENTE
+3867|MONTE DINERO        
+3868|MONTE DINERO        
+3869|MONTEAGUDO          
+3870|MONTIEL             
+3871|MONTIEL             
+3872|MONTIEL             
+3873|MORAGA              
+3874|MORAGA              
+3875|MOSCONI             
+3876|MOSCONI             
+3877|MOSCONI             
+3878|MU#IZ               
+3879|MU#IZ               
+3880|MU#IZ               
+3881|MU#IZ               
+3882|MU#IZ               
+3883|MU#IZ               
+3884|MU#IZ               
+3885|MURILLO             
+3886|MURILLO             
+3887|MURILLO             
+3888|MURILLO             
+3889|MURILLO             
+3890|MURILLO             
+3891|MURILLO             
+3892|MURILLO             
+3893|NECOCHEA            
+3894|NECOCHEA            
+3895|NECOCHEA            
+3896|OCAMPO              
+3897|ORAN                
+3898|ORAN                
+3899|OTERO               
+3900|OTERO               
+3901|OTERO               
+3902|OTERO               
+3903|OTERO               
+3904|OTERO               
+3905|OTERO               
+3906|OTERO               
+3907|PARANA              
+3908|PARANA              
+3909|PARIS               
+3910|PARIS               
+3911|PARIS               
+3912|PASO JUAN JOSE      
+3913|PASO JUAN JOSE      
+3914|PAZ SOLDAN          
+3915|PE#A                
+3916|PEDERNERA           
+3917|PEDRO C.GIACHINO    
+3918|PEDRO C.GIACHINO    
+3919|PICASSO             
+3920|PJE. CULPINA        
+3921|PLAZA               
+3922|PLAZA               
+3923|PLAZA               
+3924|PLAZA               
+3925|PORTELA             
+3926|PORTELA             
+3927|RICCHIERI           
+3928|RIO DE JANEIRO      
+3929|RIVERA INDARTE      
+3930|RIVERA INDARTE      
+3931|RIVERA INDARTE      
+3932|RIVERA INDARTE      
+3933|RODO                
+3934|RODRIGUEZ           
+3935|RODRIGUEZ           
+3936|ROMERO              
+3937|SAAVEDRA LAMAS      
+3938|SALEY TOMAS         
+3939|SALEY TOMAS         
+3940|SENILLOSA           
+3941|SENILLOSA           
+3942|TERRERO             
+3943|VALDERRAMA          
+3944|VALPARAISO          
+3945|VALPARAISO          
+3946|VALPARAISO          
+3947|VIGIL               
+3948|VIGIL               
+3949|ZABALA              
+3950|ZARRAGA             
+3951|ZARRAGA             

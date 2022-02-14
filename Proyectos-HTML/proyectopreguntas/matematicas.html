@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="estilo.css">
+    <script src="script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="navegacion">
+        <nav>
+            <table>
+                <tr><td> <h1>GNSC Juegos</h1>  </td>
+                    <td> <a href="Index.html">Inicio</a>  </td>
+                    <td> <a href="">Deportes</a>  </td>
+                    <td> <a href="historia.html">Historia</a>  </td>
+                    <td> <a href="">Geografia</a>  </td>
+                </tr>
+                
+            </table>
+    </nav>
+    </div>
+    <div class="caja">
+        <h1>Matematicas</h1>
+        <div class="encuesta">
+            
+            <br>
+            <label id="lbl">6-3+2-3=?</label>
+            <br><br>
+            <input type="checkbox"onchange="falso()"><label>3</label>
+            <br>
+            <input type="checkbox"onchange="falso()"><label>6</label>
+            <br>
+            <input type="checkbox" onchange="falso()"><label>9</label>
+            <br>
+            <input type="checkbox" onchange="verdadero()"><label>2</label>
+            <p id="p1"></p>
+        </div>
+        <div class="encuesta">
+            <br>
+            <label id="lbl">7x7=?</label>
+            <br><br>
+            <input type="checkbox"onchange="verdadero2()"><label>49</label>
+            <br>
+            <input type="checkbox"onchange="falso2()"><label>51</label>
+            <br>
+            <input type="checkbox" onchange="falso2()"><label>46</label>
+            <br>
+            <input type="checkbox" onchange="falso2()"><label>53</label>
+            <p id="p2"></p>
+        </div>
+        <div>
+            <div class="encuesta">
+                <br>
+                <label id="lbl">Cuanto es la raiz cuadrada de 4??</label>
+                <br><br>
+                <input type="checkbox"onchange="falso3()"><label>1</label>
+                <br>
+                <input type="checkbox"onchange="falso3()"><label>4</label>
+                <br>
+                <input type="checkbox" onchange="verdadero3()"><label>2</label>
+                <br>
+                <input type="checkbox" onchange="falso3()"><label>0</label>
+                <p id="p3"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <br>
+                <label id="lbl">Cuanto es la raiz cubica de 8?</label>
+                <br><br>
+                <input type="checkbox"onchange="verdadero4()"><label>2</label>
+                <br>
+                <input type="checkbox"onchange="falso4()"><label>4</label>
+                <br>
+                <input type="checkbox" onchange="falso4()"><label>8</label>
+                <br>
+                <input type="checkbox" onchange="falso4()"><label>6</label>
+                <p id="p4"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <br>
+                <label id="lbl">3x3x3x3=?</label>
+                <br><br>
+                <input type="checkbox"onchange="falso5()"><label>27</label>
+                <br>
+                <input type="checkbox"onchange="falso5()"><label>24</label>
+                <br>
+                <input type="checkbox" onchange="falso5()"><label>56</label>
+                <br>
+                <input type="checkbox" onchange="verdadero5()"><label>81</label>
+                <p id="p5"></p>
+            </div>
+        </div>
+            
+        <div>
+            <div class="encuesta">
+                <br>
+                <label id="lbl">4x3-4x3=?</label>
+                <br><br>
+                <input type="checkbox"onchange="falso6()"><label>12</label>
+                <br>
+                <input type="checkbox"onchange="falso6()"><label>24</label>
+                <br>
+                <input type="checkbox" onchange="verdadero6()"><label>0</label>
+                <br>
+                <input type="checkbox" onchange="falso6()"><label>16</label>
+                <p id="p6"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <br>
+                <label id="lbl">2X+3>3X-1</label>
+                <br><br>
+                <input type="checkbox"onchange="falso7()"><label>X>4</label>
+                <br>
+                <input type="checkbox"onchange="falso7()"><label>X>-4</label>
+                <br>
+                <input type="checkbox" onchange="verdadero7()"><label>X<-4</label>
+                <br>
+                <input type="checkbox" onchange="falso7()"><label>X<+4 </label>
+                <p id="p7"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <br>
+                <label id="lbl">X-2=-X+2</label>
+                <br><br>
+                <input type="checkbox"onchange="verdadero8()"><label>X=2</label>
+                <br>
+                <input type="checkbox"onchange="falso8()"><label>X=0</label>
+                <br>
+                <input type="checkbox" onchange="falso8()"><label>X=4</label>
+                <br>
+                <input type="checkbox" onchange="falso8()"><label>X=1/2</label>
+                <p id="p8"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <br>
+                <label id="lbl">1+2+3+4+5=?</label>
+                <br><br>
+                <input type="checkbox"onchange="falsoo9()"><label>14</label>
+                <br>
+                <input type="checkbox"onchange="falso9()"><label>20</label>
+                <br>
+                <input type="checkbox" onchange="verdadero9()"><label>15</label>
+                <br>
+                <input type="checkbox" onchange="falso9()"><label>12</label>
+                <p id="p9"></p>
+            </div>
+        </div>
+        <div>
+            <div class="encuesta">
+                <br>
+                <label id="lbl">Quien es el padre de las Matematicas??</label>
+                <br><br>
+                <input type="checkbox"onchange="falsoofinal()"><label>Anaximandro</label>
+                <br>
+                <input type="checkbox"onchange="falsofinal()"><label>Anaximenes</label>
+                <br>
+                <input type="checkbox" onchange="verdaderofinal()"><label>Pitagoras</label>
+                <br>
+                <input type="checkbox" onchange="falsofinal()"><label>Socrates</label>
+                <p id="p10"></p>
+            </div>
+        </div>
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        <div>
+            <h1>Resultado :<label id="res"></label><label>/10</label> </h1>
+            <br>
+            <h1 id="resfinal"></h1>
+            
+        </div>
+     <div class="boton"> 
+            <button><a href="" >Volver a jugar</a> </button>
+     </div>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,31 @@
+nro de recibo|Periodo|Cuota del periodo|Dominio|Marca|Modelo|Chasis|Motor|Importe de la cuota|Destinatario|Domicilio calle|Altura|Codigo Postal|Localidad|Codigo de Barra 
+600909839000|2016|01|EKV528|PEUGEOT|206 XR PRESENCE|2004|100620160000110|902170620160000|111456|MENDEZ NOELIA ANDREA DANIELA|MAGALLANES|001453|1716|LIBERTAD|04166009098390000110902161620055407160116975865287
+
+640329836000|2016|01|EKV528|PEUGEOT|206 XR PRESENCE|2004|100620160000332|706000003327100|002994|35|MENDEZ NOELIA ANDREA DANIELA|MAGALLANES|001453|1716|LIBERTAD|04166403298360000299435161620000000160016975865288
+1                              2             3                                                                                     3                  4                             5
+600909839000201601EKV528      PEUGEOT        206 XR PRESENCE2004100620160000110902170620160000111456MENDEZ NOELIA ANDREA DANIELA   MAGALLANES         0014531716LIBERTAD            04166009098390000110902161620055407160116975865287
+
+hacer 5 archivos y 2 cruds
+
+
+
+
+Descripci�n 
+nro de recibo 12
+Periodo 4
+Cuota del periodo 2
+Dominio 12
+Marca 15
+Modelo 15
+Chasis 15
+Motor 15
+Importe de la cuota 10 (de los cuales 2 son decimales)
+Destinatario 30
+Domicilio calle 20
+Altura 6
+Codigo Postal 4
+Localidad 20
+Codigo de Barra 50
+Separador 1 (*)
+Idententica descripci�n de la estructura
+

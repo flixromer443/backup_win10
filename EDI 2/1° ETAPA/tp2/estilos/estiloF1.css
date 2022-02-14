@@ -1,0 +1,31 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#cabecera{
+	background-color: grey;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	margin:0px;
+
+}
+.formu{
+	color: white;
+		margin-right: 360px;
+	margin-left: 360px;
+	margin-top: 100px;
+
+	text-align: center;
+	padding: 20px 20px;
+	background-color: background: #44A08D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #093637, #44A08D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #093637, #44A08D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#enlace{
+	color: pink;
+}
+#enlace:hover{
+	color: lightblue;
+	
+}

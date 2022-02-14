@@ -1,0 +1,24 @@
+.formu form{
+    margin: auto;
+    text-align: center;
+}
+.formu input{
+    margin: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    border-color: aqua;
+    border-right: 0ch;
+    border-left: 0ch;
+    border-top: 0ch;
+    background: transparent;
+    transition: 0.3s;
+    width: 180px;
+    font-style: italic;
+    color: rgb(212, 202, 189);
+}
+.formu input:focus {
+    width: 250px;
+    font-style: normal;
+}
+body{
+    background-color: rgb(104, 95, 84);
+}

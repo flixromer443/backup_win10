@@ -1,0 +1,9 @@
+
+function cambiar(){
+    document.getElementById("datos1").style.display="none";
+    document.getElementById("datos2").style.display="block";
+}
+function cambiar2(){
+    document.getElementById("datos1").style.display="block";
+    document.getElementById("datos2").style.display="none";
+}
